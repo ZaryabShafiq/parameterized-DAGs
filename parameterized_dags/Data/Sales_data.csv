@@ -1,0 +1,1001 @@
+customer_id,product_name,quantity,total_price,transaction_date,payment_method,sales_channel,sales_id
+CUST057,Lettuce - Escarole,903,82377,06/02/2020,Credit Card,Online,SALE2345
+CUST068,Beer - Muskoka Cream Ale,298,83212,25/05/2010,Apple Pay,Online,SALE4567
+CUST054,Pastry - Apple Muffins - Mini,952,13029,25/11/2021,Cash,Online,SALE0987
+CUST054,Wine - Malbec Trapiche Reserve,10,78339,25/10/2020,Cash,Online,SALE0981
+CUST005,Chocolate - Dark,601,26247,06/07/2020,Debit Card,In-store,SALE2190
+CUST012,Sunflower Seed Raw,490,92626,27/03/2015,Google Pay,In-store,SALE4356
+CUST060,Carbonated Water - Strawberry,211,30018,29/04/2013,Apple Pay,Online,SALE4326
+CUST033,Wine - Wyndham Estate Bin 777,297,35137,06/02/2011,Credit Card,In-store,SALE2190
+CUST037,Goldschalger,448,96796,20/11/2021,Apple Pay,Online,SALE4326
+CUST015,Beer - Fruli,789,47248,29/10/2019,Google Pay,Online,SALE2109
+CUST014,Beer - Sleemans Cream Ale,538,17146,12/01/2011,Google Pay,In-store,SALE5432
+CUST020,Chips Potato Salt Vinegar 43g,689,75736,15/05/2004,PayPal,In-store,SALE6578
+CUST017,Potatoes - Idaho 80 Count,962,62668,21/01/2018,Debit Card,Online,SALE1234
+CUST067,Curry Paste - Madras,419,87948,13/06/2022,Apple Pay,Online,SALE2190
+CUST081,Fruit Salad Deluxe,99,92642,21/12/2014,Google Pay,Online,SALE2134
+CUST093,Bread - Rye,702,6294,14/08/2006,PayPal,In-store,SALE2134
+CUST034,Nut - Pumpkin Seeds,807,74289,15/05/2016,Cash,In-store,SALE0123
+CUST035,Veal - Nuckle,865,91473,04/01/2022,Google Pay,In-store,SALE2345
+CUST039,"Carrots - Mini, Stem On",459,63431,25/01/2008,Debit Card,In-store,SALE8790
+CUST024,Pastry - Choclate Baked,108,22600,12/01/2012,PayPal,Online,SALE7890
+CUST073,Tobasco Sauce,611,34655,07/06/2015,Credit Card,Online,SALE4567
+CUST051,Pastry - Apple Large,130,53583,20/04/2004,Credit Card,In-store,SALE6578
+CUST049,Sauce - Plum,415,6294,27/08/2007,Debit Card,In-store,SALE8765
+CUST098,Beef Striploin Aaa,441,23416,24/03/2003,Debit Card,In-store,SALE6789
+CUST071,"Veal - Shank, Pieces",975,66991,03/07/2008,Credit Card,In-store,SALE8760
+CUST086,Tea - Black Currant,167,79835,08/05/2016,Google Pay,In-store,SALE2345
+CUST069,Wine - Magnotta - Pinot Gris Sr,48,84212,23/10/2021,Google Pay,Online,SALE2190
+CUST043,"Rosemary - Primerba, Paste",218,60837,23/11/2005,PayPal,In-store,SALE6547
+CUST075,Artichoke - Fresh,711,39353,07/03/2019,Cash,In-store,SALE8901
+CUST099,Lettuce - Belgian Endive,87,13257,30/04/2007,Cash,Online,SALE8790
+CUST072,"Soup - Campbells, Minestrone",870,7036,08/07/2020,Google Pay,In-store,SALE2134
+CUST096,"Wine - Red, Cooking",166,93263,29/05/2022,PayPal,In-store,SALE9012
+CUST072,Wasabi Powder,639,72498,19/05/2018,PayPal,Online,SALE8901
+CUST028,Container - Foam Dixie 12 Oz,196,4843,21/06/2006,Credit Card,Online,SALE8790
+CUST065,Food Colouring - Blue,684,30955,23/11/2009,Apple Pay,In-store,SALE2190
+CUST073,Ecolab - Lime - A - Way 4/4 L,182,94504,02/06/2017,Google Pay,In-store,SALE3456
+CUST098,Wine - Rubyport,840,36467,05/02/2011,Apple Pay,Online,SALE2190
+CUST015,Soup - Campbells - Tomato,794,14210,09/04/2013,Google Pay,In-store,SALE4356
+CUST037,Soup Campbells - Italian Wedding,569,19565,02/05/2009,Apple Pay,Online,SALE8765
+CUST060,Oil - Coconut,92,62361,02/04/2017,Cash,In-store,SALE4326
+CUST057,Rice - Long Grain,953,51540,08/11/2003,Debit Card,In-store,SALE6547
+CUST047,Cake - Miini Cheesecake Cherry,661,41713,18/03/2018,Apple Pay,In-store,SALE4356
+CUST065,Pop - Club Soda Can,394,70991,06/07/2010,PayPal,In-store,SALE4567
+CUST098,Wine - Gewurztraminer Pierre,755,69296,05/08/2010,Cash,In-store,SALE8760
+CUST019,Pork Loin Bine - In Frenched,742,73652,25/06/2010,Google Pay,In-store,SALE0912
+CUST014,Tart - Raisin And Pecan,490,45140,24/07/2016,Google Pay,Online,SALE8790
+CUST094,"Turnip - White, Organic",944,95041,06/12/2017,Credit Card,In-store,SALE2109
+CUST025,Cake - Lemon Chiffon,786,68508,28/10/2010,Apple Pay,Online,SALE0981
+CUST042,Butter Ripple - Phillips,184,42928,22/05/2008,Debit Card,In-store,SALE8760
+CUST021,Bread - Raisin Walnut Oval,615,5337,21/10/2009,Debit Card,Online,SALE6543
+CUST029,Coffee - French Vanilla Frothy,548,95370,22/05/2003,Cash,Online,SALE5678
+CUST080,Cookie Chocolate Chip With,954,54510,13/12/2017,PayPal,Online,SALE8760
+CUST067,Table Cloth 144x90 White,212,32271,25/01/2009,PayPal,In-store,SALE6547
+CUST083,Flour - Whole Wheat,566,54195,07/11/2014,Cash,In-store,SALE8760
+CUST031,Lamb Rack Frenched Australian,392,35185,23/11/2015,Credit Card,Online,SALE6789
+CUST067,Flower - Leather Leaf Fern,472,27367,11/05/2006,Apple Pay,Online,SALE4321
+CUST026,Snapple - Iced Tea Peach,5,18029,05/07/2007,Apple Pay,In-store,SALE4567
+CUST099,"Soup - Campbells, Lentil",780,93649,28/06/2021,Google Pay,Online,SALE4356
+CUST073,"Lemonade - Mandarin, 591 Ml",470,66789,01/02/2008,Apple Pay,Online,SALE2190
+CUST038,Cod - Fillets,121,84219,11/03/2013,Google Pay,In-store,SALE0981
+CUST076,Rosemary - Dry,789,13328,30/11/2013,Credit Card,Online,SALE6547
+CUST048,Tomatoes Tear Drop,290,62021,19/02/2014,PayPal,Online,SALE0981
+CUST066,Cocoa Powder - Dutched,281,85846,24/07/2022,Google Pay,In-store,SALE8901
+CUST080,Tart - Lemon,568,54871,15/12/2020,Cash,In-store,SALE4326
+CUST064,"Lamb - Whole, Frozen",347,88723,02/03/2009,Cash,Online,SALE6547
+CUST088,Juice - Orange,998,55626,18/02/2019,Apple Pay,Online,SALE6789
+CUST087,Chips Potato Swt Chilli Sour,611,89140,16/11/2003,Debit Card,Online,SALE4356
+CUST094,"Wine - Magnotta - Red, Baco",371,82607,16/07/2004,Credit Card,In-store,SALE0912
+CUST070,Cafe Royale,321,23472,10/11/2010,Apple Pay,Online,SALE6543
+CUST021,Barramundi,185,92853,17/08/2013,Apple Pay,Online,SALE0123
+CUST079,Beef - Rib Eye Aaa,351,9614,08/06/2011,PayPal,In-store,SALE4356
+CUST022,Compound - Strawberry,826,21413,04/05/2005,Apple Pay,In-store,SALE9012
+CUST079,Tarts Assorted,471,45261,19/12/2007,Apple Pay,Online,SALE5432
+CUST079,Wine - Sogrape Mateus Rose,972,36747,06/04/2015,Credit Card,In-store,SALE0981
+CUST059,"Bag - Bread, White, Plain",281,29171,01/01/2008,Apple Pay,Online,SALE3456
+CUST050,Mangostein,43,50195,30/05/2011,Google Pay,Online,SALE2134
+CUST072,"Pasta - Penne, Rigate, Dry",261,5505,14/05/2010,Google Pay,Online,SALE9012
+CUST099,"Pasta - Canelloni, Single Serve",608,98447,15/11/2009,Debit Card,Online,SALE0123
+CUST025,Nori Sea Weed - Gold Label,773,41929,24/05/2010,Cash,Online,SALE4356
+CUST085,"Veal - Inside, Choice",365,90416,05/05/2009,PayPal,In-store,SALE0123
+CUST039,Tea - Herbal Orange Spice,445,75798,07/10/2015,Google Pay,In-store,SALE0123
+CUST049,Grapes - Green,868,67654,26/07/2004,Debit Card,Online,SALE5678
+CUST063,Chocolate - Feathers,855,84233,20/05/2014,Google Pay,In-store,SALE4321
+CUST073,"Vermouth - White, Cinzano",676,77179,19/04/2021,Cash,Online,SALE0981
+CUST086,"Pasta - Rotini, Colour, Dry",939,55456,20/06/2004,Debit Card,Online,SALE2109
+CUST032,Beef - Short Ribs,103,50505,17/02/2007,Google Pay,Online,SALE4567
+CUST035,Pastry - Mini French Pastries,322,72345,04/01/2009,Credit Card,In-store,SALE0981
+CUST039,Greens Mustard,675,30509,24/05/2006,Cash,In-store,SALE8760
+CUST043,Wine - Jafflin Bourgongone,98,34353,17/10/2003,Google Pay,Online,SALE0123
+CUST026,"Lemonade - Mandarin, 591 Ml",903,76392,29/09/2012,Apple Pay,In-store,SALE4326
+CUST041,"Nut - Hazelnut, Ground, Natural",208,39464,25/04/2010,PayPal,In-store,SALE2190
+CUST041,"Tomatoes - Diced, Canned",563,95153,25/10/2003,Google Pay,Online,SALE2134
+CUST060,Wine - Port Late Bottled Vintage,405,36784,17/11/2010,Credit Card,In-store,SALE8765
+CUST079,Chicken - Leg / Back Attach,913,23653,25/11/2019,Credit Card,Online,SALE6789
+CUST087,Beef - Diced,193,14467,29/09/2010,PayPal,In-store,SALE6578
+CUST088,Wine - Penfolds Koonuga Hill,629,70367,28/07/2015,Credit Card,Online,SALE0981
+CUST050,"Corn - Cream, Canned",702,24437,23/08/2005,Google Pay,In-store,SALE6543
+CUST082,Bread - Mini Hamburger Bun,554,41964,20/07/2013,Credit Card,Online,SALE6578
+CUST053,Pear - Prickly,943,85170,09/05/2021,Google Pay,Online,SALE3456
+CUST044,Silicone Paper 16.5x24,58,93411,05/05/2022,Apple Pay,Online,SALE0987
+CUST041,Macaroons - Two Bite Choc,234,50410,28/09/2007,Apple Pay,In-store,SALE0912
+CUST099,Island Oasis - Ice Cream Mix,542,90608,28/08/2016,Cash,Online,SALE0123
+CUST046,Pants Custom Dry Clean,656,77262,05/01/2011,Apple Pay,In-store,SALE8901
+CUST068,Cake - Dulce De Leche,6,37860,23/10/2007,Debit Card,In-store,SALE0987
+CUST014,Muffin - Mix - Mango Sour Cherry,322,70762,14/03/2016,Google Pay,Online,SALE2190
+CUST096,"Bread - Bagels, Mini",771,67018,15/12/2017,Cash,Online,SALE5678
+CUST054,Beef - Shank,603,84240,11/10/2020,PayPal,In-store,SALE8765
+CUST036,Seaweed Green Sheets,241,41322,03/06/2011,Credit Card,Online,SALE3456
+CUST001,"Jam - Raspberry,jar",454,53114,17/09/2021,Credit Card,Online,SALE0123
+CUST055,Dc - Frozen Momji,144,46541,29/07/2010,Credit Card,Online,SALE0123
+CUST031,Lamb Leg - Bone - In Nz,222,4904,01/08/2007,Debit Card,Online,SALE0123
+CUST054,Okra,504,34493,18/02/2004,Google Pay,In-store,SALE0981
+CUST090,Bread Crumbs - Japanese Style,985,33134,16/07/2005,PayPal,In-store,SALE2109
+CUST074,Dc - Frozen Momji,594,47036,15/03/2013,Credit Card,Online,SALE4567
+CUST063,Sausage - Chorizo,98,97758,30/11/2012,Credit Card,In-store,SALE2345
+CUST082,Gelatine Leaves - Bulk,934,82579,24/05/2019,Debit Card,Online,SALE8901
+CUST067,Rolled Oats,412,97632,12/10/2019,Credit Card,Online,SALE6543
+CUST100,Chocolate - Unsweetened,315,86616,07/10/2015,Apple Pay,Online,SALE4326
+CUST053,Apple - Granny Smith,769,18260,12/11/2013,PayPal,Online,SALE8765
+CUST053,Syrup - Monin - Blue Curacao,253,58408,07/06/2015,Cash,Online,SALE6547
+CUST098,"Ranchero - Primerba, Paste",488,33317,25/10/2018,PayPal,Online,SALE8765
+CUST058,Steam Pan Full Lid,652,16622,12/03/2009,Cash,In-store,SALE8765
+CUST001,"Jam - Strawberry, 20 Ml Jar",766,38552,18/01/2022,PayPal,Online,SALE9876
+CUST072,"Shrimp - 16/20, Peeled Deviened",781,34940,01/09/2004,Cash,In-store,SALE2109
+CUST012,Muffins - Assorted,427,20393,24/10/2018,Google Pay,In-store,SALE0912
+CUST082,Syrup - Monin - Granny Smith,896,49630,07/10/2019,Google Pay,In-store,SALE2345
+CUST090,Bread - Crusty Italian Poly,397,85086,16/10/2022,Google Pay,In-store,SALE2134
+CUST043,"Doilies - 12, Paper",833,45944,28/09/2015,Apple Pay,Online,SALE4567
+CUST062,"Bar Mix - Pina Colada, 355 Ml",467,49775,09/02/2007,Credit Card,Online,SALE2109
+CUST013,Towel Multifold,399,74327,11/09/2022,Credit Card,In-store,SALE5432
+CUST070,"Juice - Grape, White",696,75692,14/08/2011,Google Pay,In-store,SALE4356
+CUST027,Muffin Mix - Chocolate Chip,595,45225,11/01/2019,Cash,In-store,SALE6543
+CUST068,Pork Loin Bine - In Frenched,289,51553,13/07/2020,Cash,In-store,SALE9012
+CUST004,"Veal - Brisket, Provimi, Bone - In",550,86159,20/08/2010,Cash,In-store,SALE5678
+CUST074,"Cake Circle, Foil, Scallop",708,89745,08/01/2015,Credit Card,In-store,SALE5678
+CUST046,Bread - Raisin Walnut Pull,639,56929,03/10/2019,Debit Card,Online,SALE0981
+CUST060,Oil - Peanut,266,88999,27/06/2003,Debit Card,Online,SALE8901
+CUST047,Cheese - Pied De Vents,882,89326,10/10/2004,PayPal,In-store,SALE0981
+CUST006,Blue Curacao - Marie Brizard,663,95244,07/01/2014,Google Pay,Online,SALE4321
+CUST045,Wine - Chablis J Moreau Et Fils,865,8510,27/11/2012,Apple Pay,Online,SALE8765
+CUST012,Chicken - Wieners,651,13804,28/06/2007,Google Pay,Online,SALE5678
+CUST074,Cheese - Fontina,314,97266,01/04/2009,Google Pay,Online,SALE2190
+CUST080,Table Cloth 62x114 White,986,27117,18/04/2004,Credit Card,In-store,SALE6547
+CUST067,"Tart Shells - Barquettes, Savory",899,32389,12/08/2015,Apple Pay,Online,SALE8790
+CUST003,Pepper - Scotch Bonnet,879,2800,09/07/2014,Debit Card,Online,SALE4356
+CUST040,"Cheese - Cheddar, Mild",390,99787,19/09/2003,Apple Pay,Online,SALE4356
+CUST065,Apple - Fuji,538,58330,30/01/2011,PayPal,Online,SALE0123
+CUST050,Anchovy Paste - 56 G Tube,917,11611,22/04/2009,Credit Card,In-store,SALE0912
+CUST013,Garam Marsala,391,15643,08/07/2010,Apple Pay,Online,SALE6547
+CUST015,Extract - Raspberry,131,29830,19/02/2012,PayPal,In-store,SALE8790
+CUST048,Lettuce - Green Leaf,831,25235,04/09/2017,Credit Card,In-store,SALE4321
+CUST070,Flounder - Fresh,327,38664,16/05/2008,Debit Card,Online,SALE6789
+CUST050,Coffee Guatemala Dark,533,8784,22/12/2005,Google Pay,In-store,SALE0987
+CUST002,Energy Drink Bawls,626,59835,25/06/2004,Google Pay,Online,SALE2134
+CUST100,Pea - Snow,124,41034,18/07/2003,Cash,Online,SALE6578
+CUST053,Chocolate Bar - Oh Henry,303,64230,14/06/2016,Debit Card,In-store,SALE6789
+CUST065,Lemon Balm - Fresh,936,92767,17/11/2018,Credit Card,In-store,SALE6547
+CUST095,Compound - Mocha,781,12546,24/03/2008,Debit Card,In-store,SALE6547
+CUST001,"Beef - Kindney, Whole",312,64388,07/07/2021,PayPal,In-store,SALE4326
+CUST074,Sour Cream,120,5437,26/12/2012,Cash,In-store,SALE8760
+CUST037,Chocolate Bar - Oh Henry,829,71638,16/07/2005,Apple Pay,Online,SALE8765
+CUST094,Chocolate - Dark,754,68966,08/05/2010,Credit Card,In-store,SALE2134
+CUST091,Cod - Black Whole Fillet,583,97150,08/11/2018,Debit Card,Online,SALE8765
+CUST046,"Tart Shells - Savory, 3",339,62936,30/06/2021,Credit Card,Online,SALE6789
+CUST098,Puree - Guava,414,70758,12/06/2007,Cash,In-store,SALE0123
+CUST029,Petit Baguette,391,28516,15/08/2020,Google Pay,Online,SALE8765
+CUST071,"Pepper - Julienne, Frozen",195,55901,12/12/2015,Cash,Online,SALE4356
+CUST087,Rice - Jasmine Sented,325,44329,09/03/2019,PayPal,In-store,SALE2109
+CUST040,Cake - Mini Potato Pancake,206,8886,14/06/2009,Cash,In-store,SALE2109
+CUST075,Chicken - Livers,697,88087,12/12/2020,Cash,In-store,SALE4321
+CUST063,Absolut Citron,249,58034,26/09/2008,Debit Card,Online,SALE2134
+CUST080,Squid Ink,68,81270,15/07/2010,PayPal,Online,SALE2109
+CUST017,Seedlings - Clamshell,622,72364,24/08/2021,Google Pay,In-store,SALE0123
+CUST055,"Halibut - Whole, Fresh",992,38041,24/01/2017,Google Pay,Online,SALE5432
+CUST084,"Pepper - Black, Whole",95,79936,07/12/2004,Google Pay,Online,SALE8790
+CUST008,"Wine - Saint - Bris 2002, Sauv",484,83832,14/11/2017,Apple Pay,In-store,SALE8790
+CUST080,"Pepper - Paprika, Hungarian",727,15772,14/06/2003,PayPal,In-store,SALE6789
+CUST093,Wine - Saint Emilion Calvet,889,12515,12/12/2012,Cash,In-store,SALE6578
+CUST098,Wine - Pinot Noir Latour,55,96055,16/07/2020,Debit Card,Online,SALE8765
+CUST100,Curry Powder Madras,254,45538,28/01/2013,Google Pay,In-store,SALE2109
+CUST034,Flour - Bread,475,29378,04/06/2007,Credit Card,In-store,SALE8790
+CUST032,Sage Ground Wiberg,3,7413,22/12/2005,PayPal,In-store,SALE2190
+CUST037,Horseradish - Prepared,742,7259,11/09/2007,Google Pay,In-store,SALE2109
+CUST022,Cheese Cheddar Processed,686,26751,07/09/2004,PayPal,In-store,SALE2345
+CUST059,Longos - Chicken Cordon Bleu,853,24201,28/10/2010,Debit Card,Online,SALE6578
+CUST039,Mint - Fresh,766,14837,24/04/2004,Google Pay,In-store,SALE2109
+CUST047,Beans - Wax,122,44573,29/12/2003,Google Pay,In-store,SALE6789
+CUST014,Appetizer - Southwestern,321,43652,12/03/2007,Apple Pay,In-store,SALE5678
+CUST065,Bar - Granola Trail Mix Fruit Nut,860,39286,20/02/2009,Apple Pay,In-store,SALE5432
+CUST091,Water - Spring 1.5lit,667,52744,21/02/2016,Cash,Online,SALE0123
+CUST069,Sauce - Hollandaise,39,98610,20/01/2006,Credit Card,Online,SALE0981
+CUST074,Oranges,218,20939,21/11/2017,Google Pay,In-store,SALE4326
+CUST056,Longos - Chicken Caeser Salad,635,70056,07/11/2020,Credit Card,Online,SALE4321
+CUST065,Muffin Chocolate Individual Wrap,678,70657,01/02/2021,Cash,In-store,SALE1234
+CUST056,"Veal - Brisket, Provimi, Bone - In",712,2060,07/03/2022,Apple Pay,In-store,SALE0123
+CUST078,"Hickory Smoke, Liquid",397,50590,22/10/2009,PayPal,In-store,SALE9012
+CUST027,Pomello,446,12000,16/01/2012,Google Pay,Online,SALE4356
+CUST009,Veal - Nuckle,842,61238,16/11/2019,Debit Card,Online,SALE8765
+CUST075,Muffin - Carrot Individual Wrap,84,57747,26/10/2016,Apple Pay,In-store,SALE4321
+CUST074,Plastic Wrap,248,17680,11/05/2019,PayPal,In-store,SALE2109
+CUST026,Beer - Tetleys,477,86772,15/02/2007,PayPal,In-store,SALE2190
+CUST072,Pastry - Trippleberry Muffin - Mini,920,63540,01/04/2010,Cash,In-store,SALE0912
+CUST051,Oven Mitts - 15 Inch,799,43557,27/07/2003,Credit Card,In-store,SALE8901
+CUST073,Orange Roughy 6/8 Oz,52,91380,11/10/2004,Cash,In-store,SALE6578
+CUST039,Sambuca - Opal Nera,196,20909,26/06/2020,PayPal,In-store,SALE0912
+CUST042,Honey - Liquid,611,41795,22/12/2020,Debit Card,Online,SALE4567
+CUST092,Bread - French Baquette,724,60259,12/03/2015,Credit Card,Online,SALE0912
+CUST043,Chips Potato Reg 43g,836,86493,22/11/2003,Debit Card,In-store,SALE0987
+CUST078,Gatorade - Xfactor Berry,410,5810,01/07/2003,Credit Card,In-store,SALE5432
+CUST009,Lid - 3oz Med Rec,773,49590,07/11/2018,Apple Pay,Online,SALE8765
+CUST007,"Capon - Breast, Double, Wing On",120,91490,02/04/2015,Google Pay,Online,SALE6789
+CUST067,Beef Wellington,617,8667,19/04/2003,Google Pay,In-store,SALE6543
+CUST067,Containter - 3oz Microwave Rect.,98,66211,24/11/2005,Cash,In-store,SALE2345
+CUST017,Longos - Penne With Pesto,853,3734,03/07/2004,Credit Card,Online,SALE8790
+CUST021,Soup - Campbells Asian Noodle,321,24107,28/11/2016,Cash,In-store,SALE0912
+CUST067,Table Cloth 53x69 White,126,19068,19/09/2013,Google Pay,Online,SALE4356
+CUST079,Pastry - Trippleberry Muffin - Mini,84,42755,16/05/2009,PayPal,In-store,SALE6547
+CUST049,"Salmon - Atlantic, Fresh, Whole",632,32609,12/07/2015,Google Pay,In-store,SALE6543
+CUST035,Nantucket Pine Orangebanana,91,95640,14/01/2017,Debit Card,In-store,SALE4321
+CUST059,Wine - Touraine Azay - Le - Rideau,126,9744,17/05/2009,Credit Card,Online,SALE8765
+CUST097,"Seedlings - Mix, Organic",306,32329,08/02/2007,PayPal,In-store,SALE4356
+CUST013,Calypso - Strawberry Lemonade,393,40210,25/12/2004,Google Pay,In-store,SALE2190
+CUST069,Juice - Happy Planet,849,82200,19/01/2018,Cash,Online,SALE6578
+CUST082,"Bread - Roll, Italian",310,49601,05/02/2010,Google Pay,Online,SALE1234
+CUST033,Syrup - Chocolate,932,40364,03/07/2021,Cash,In-store,SALE2134
+CUST070,Soup - Campbells Chicken,593,20033,03/09/2020,Google Pay,In-store,SALE2345
+CUST078,Greens Mustard,733,96637,07/08/2007,PayPal,In-store,SALE2134
+CUST051,Wine - Soave Folonari,226,14713,11/07/2012,Debit Card,Online,SALE0987
+CUST029,Beer - True North Lager,578,7343,29/09/2020,PayPal,Online,SALE4321
+CUST081,Bagel - Whole White Sesame,642,52020,05/02/2020,Credit Card,In-store,SALE1234
+CUST041,"Veal - Round, Eye Of",925,59217,24/11/2005,Credit Card,In-store,SALE6543
+CUST069,"Glass - Wine, Plastic, Clear 5 Oz",556,61492,11/07/2009,Apple Pay,In-store,SALE6578
+CUST005,Cheese - Taleggio D.o.p.,912,2891,23/07/2009,PayPal,Online,SALE2109
+CUST018,Veal - Kidney,65,53448,19/02/2007,Credit Card,In-store,SALE4326
+CUST050,Mint - Fresh,903,88128,10/02/2018,Credit Card,In-store,SALE5678
+CUST059,Parasol Pick Stir Stick,692,4913,17/02/2022,PayPal,Online,SALE6547
+CUST094,"Bread - Bagels, Mini",19,83536,23/05/2003,Debit Card,Online,SALE6547
+CUST036,Tea - Decaf 1 Cup,902,5303,08/10/2010,PayPal,Online,SALE2134
+CUST043,Sauce - Roasted Red Pepper,827,92217,10/06/2004,Apple Pay,Online,SALE0981
+CUST091,"Soup - Knorr, Ministrone",269,21704,17/02/2009,PayPal,Online,SALE8765
+CUST067,Foil - Round Foil,752,57906,10/01/2016,PayPal,In-store,SALE9876
+CUST018,Bread - Multigrain,317,68775,11/08/2004,Cash,In-store,SALE8901
+CUST054,Bread Base - Italian,143,91488,23/05/2014,Credit Card,In-store,SALE4321
+CUST010,"Turnip - White, Organic",399,56793,28/09/2012,Apple Pay,In-store,SALE4567
+CUST062,Pork - Kidney,839,59531,19/02/2019,Apple Pay,In-store,SALE6789
+CUST006,Pear - Halves,593,86479,29/11/2019,Debit Card,In-store,SALE4321
+CUST008,"7up Diet, 355 Ml",831,65655,22/02/2008,Google Pay,Online,SALE2190
+CUST043,Table Cloth 91x91 Colour,735,18409,08/07/2019,Google Pay,Online,SALE5432
+CUST092,Mix Pina Colada,265,55336,31/12/2020,PayPal,In-store,SALE6547
+CUST063,Lentils - Green Le Puy,413,90155,13/06/2020,Credit Card,Online,SALE0987
+CUST078,Beer - Camerons Cream Ale,180,96516,13/12/2017,Apple Pay,In-store,SALE6543
+CUST022,"Bread - Pullman, Sliced",500,26463,30/09/2013,Cash,Online,SALE5678
+CUST009,"Lobster - Tail, 3 - 4 Oz",734,6873,24/08/2017,Credit Card,In-store,SALE8901
+CUST083,Sauce - Demi Glace,672,23635,23/12/2021,Credit Card,In-store,SALE2109
+CUST001,Cheese - Provolone,182,93483,16/12/2008,Google Pay,Online,SALE6543
+CUST023,"Juice - Apple, 500 Ml",630,72321,24/08/2005,Cash,Online,SALE8901
+CUST068,"Squash - Pattypan, Yellow",250,12605,04/03/2012,Credit Card,In-store,SALE6547
+CUST055,Butter - Salted,293,79492,15/06/2012,Credit Card,In-store,SALE6789
+CUST050,Vinegar - Rice,459,79001,27/07/2017,PayPal,In-store,SALE4567
+CUST067,Lamb Tenderloin Nz Fr,883,74317,02/02/2021,Debit Card,In-store,SALE0912
+CUST004,Cleaner - Lime Away,403,82970,06/03/2004,PayPal,Online,SALE8790
+CUST029,Chips Potato All Dressed - 43g,847,4133,06/07/2008,PayPal,In-store,SALE6547
+CUST100,Wine - Charddonnay Errazuriz,510,76016,25/04/2016,Credit Card,In-store,SALE0912
+CUST042,"Bread - Roll, Calabrese",706,70405,27/02/2011,Debit Card,Online,SALE2190
+CUST059,Phyllo Dough,33,32484,07/12/2020,Credit Card,In-store,SALE5678
+CUST012,Sugar - Icing,975,43957,29/03/2013,Apple Pay,Online,SALE6547
+CUST002,Soup - Verve - Chipotle Chicken,49,12762,12/01/2022,Cash,In-store,SALE6543
+CUST029,Carrots - Mini Red Organic,913,23486,01/09/2013,PayPal,Online,SALE6789
+CUST067,Wine - Casillero Deldiablo,865,34791,18/12/2014,Cash,Online,SALE2109
+CUST066,Buffalo - Tenderloin,266,25209,13/03/2014,Debit Card,In-store,SALE9876
+CUST006,"Lamb - Racks, Frenched",294,65391,30/09/2013,Cash,In-store,SALE4356
+CUST048,Sprouts Dikon,72,21211,03/01/2017,PayPal,Online,SALE8765
+CUST094,Cake - Dulce De Leche,509,59500,06/12/2019,Google Pay,Online,SALE6543
+CUST071,Pepper - Pablano,126,27581,13/11/2015,Apple Pay,Online,SALE4326
+CUST011,"Chicken - Leg, Boneless",688,49163,02/09/2016,PayPal,In-store,SALE2345
+CUST020,Cookies - Englishbay Oatmeal,330,33591,23/03/2008,Google Pay,In-store,SALE8901
+CUST096,Juice - Apple 284ml,639,24813,11/11/2003,Apple Pay,In-store,SALE4321
+CUST022,Pimento - Canned,762,63,04/04/2019,Google Pay,Online,SALE8765
+CUST013,"Wine - Niagara,vqa Reisling",284,43269,24/02/2003,Credit Card,In-store,SALE4321
+CUST088,Chips - Assorted,403,79373,01/12/2017,PayPal,Online,SALE0981
+CUST038,Chocolate - Milk Coating,39,7184,01/04/2021,Google Pay,Online,SALE6543
+CUST006,Bread Sour Rolls,658,27014,31/01/2007,Credit Card,Online,SALE2109
+CUST083,Bar Mix - Lime,402,40056,20/10/2021,Apple Pay,Online,SALE6578
+CUST075,Appetizer - Cheese Bites,105,21656,28/12/2006,Apple Pay,In-store,SALE0987
+CUST058,Cheese - Feta,598,61515,02/12/2009,Apple Pay,Online,SALE6547
+CUST093,Cheese - Mozzarella,689,61479,13/04/2007,PayPal,In-store,SALE0912
+CUST089,"Wine - White, Pinot Grigio",238,1179,10/08/2013,Google Pay,In-store,SALE4356
+CUST033,Ecolab - Mikroklene 4/4 L,183,67305,04/11/2003,Cash,Online,SALE2190
+CUST090,"Lid - High Heat, Super Clear",283,47802,08/03/2003,Apple Pay,Online,SALE2109
+CUST095,Chinese Foods - Plain Fried Rice,16,95122,12/06/2010,PayPal,In-store,SALE8901
+CUST049,Dragon Fruit,693,6008,20/09/2019,Credit Card,Online,SALE6543
+CUST068,Oneshot Automatic Soap System,444,42702,27/03/2008,Google Pay,Online,SALE8760
+CUST078,"Cheese - Manchego, Spanish",137,15401,16/02/2010,Cash,Online,SALE9876
+CUST025,Langers - Cranberry Cocktail,573,65800,24/04/2017,Google Pay,Online,SALE8760
+CUST001,"Pasta - Lasagne, Fresh",931,46565,29/08/2011,Apple Pay,In-store,SALE2134
+CUST042,Parsley Italian - Fresh,863,93622,15/08/2017,Apple Pay,Online,SALE6789
+CUST045,"Soup - Clam Chowder, Dry Mix",548,83060,01/01/2015,Credit Card,Online,SALE0912
+CUST010,Pan Grease,73,54821,16/12/2012,Cash,In-store,SALE4326
+CUST089,Quiche Assorted,397,61893,24/04/2013,Apple Pay,Online,SALE6789
+CUST023,"Cheese - Brie, Cups 125g",974,5195,09/11/2012,Apple Pay,In-store,SALE8790
+CUST046,Bread Base - Goodhearth,877,9277,03/07/2017,Credit Card,Online,SALE0987
+CUST044,Baking Powder,807,36822,28/04/2004,Google Pay,In-store,SALE8765
+CUST055,"Cherries - Maraschino,jar",789,14952,06/02/2003,Credit Card,In-store,SALE6789
+CUST008,"Salmon - Atlantic, Fresh, Whole",828,40045,16/12/2013,Apple Pay,In-store,SALE4567
+CUST028,Brandy - Bar,20,51486,14/03/2021,Credit Card,In-store,SALE0912
+CUST068,Wine - Penfolds Koonuga Hill,119,98444,19/04/2011,Credit Card,Online,SALE0987
+CUST078,"Beef - Ground, Extra Lean, Fresh",873,21587,08/09/2017,Apple Pay,In-store,SALE6547
+CUST067,Mustard - Pommery,409,21845,21/07/2006,Apple Pay,In-store,SALE4567
+CUST035,Pasta - Agnolotti - Butternut,82,98723,02/02/2007,Credit Card,In-store,SALE2345
+CUST062,The Pop Shoppe - Black Cherry,441,92891,19/01/2007,PayPal,In-store,SALE4356
+CUST083,Iced Tea Concentrate,354,21588,07/12/2017,Apple Pay,Online,SALE2109
+CUST082,Flavouring - Raspberry,356,51088,10/01/2015,PayPal,Online,SALE2190
+CUST068,Beef - Shank,442,2521,29/08/2016,Credit Card,Online,SALE2109
+CUST054,Beer - Upper Canada Lager,590,48940,18/02/2021,Google Pay,Online,SALE9876
+CUST034,Sauce - Rosee,487,35972,16/02/2004,Credit Card,Online,SALE6789
+CUST070,"Sprite, Diet - 355ml",999,55340,16/11/2007,Credit Card,In-store,SALE6789
+CUST001,Fudge - Chocolate Fudge,656,85830,20/05/2020,Google Pay,Online,SALE0981
+CUST038,Beef - Inside Round,919,82286,25/10/2006,PayPal,Online,SALE6547
+CUST098,Muskox - French Rack,695,25410,11/12/2015,Cash,In-store,SALE4567
+CUST019,Goat - Leg,326,5533,08/11/2003,Debit Card,Online,SALE4326
+CUST093,Bread Country Roll,117,28898,04/09/2006,Cash,Online,SALE8790
+CUST039,Yeast Dry - Fleischman,66,23415,26/10/2019,Google Pay,Online,SALE3456
+CUST097,Soup - Campbells Bean Medley,179,97417,10/10/2017,Debit Card,Online,SALE0912
+CUST075,Bread Base - Italian,980,47074,09/06/2017,Apple Pay,Online,SALE6789
+CUST059,Appetizer - Sausage Rolls,262,80313,16/05/2006,Credit Card,In-store,SALE6789
+CUST021,Wine - Trimbach Pinot Blanc,738,2155,11/01/2019,Google Pay,In-store,SALE0123
+CUST043,Cheese - Brie,214,67860,13/09/2006,Credit Card,Online,SALE0981
+CUST051,"Juice - Apple, 500 Ml",789,83502,23/03/2003,Google Pay,In-store,SALE5432
+CUST053,Bread Base - Italian,117,46378,01/12/2009,Debit Card,In-store,SALE8790
+CUST026,Tuna - Yellowfin,119,68037,17/03/2004,Cash,Online,SALE6547
+CUST069,Soup - Campbells Bean Medley,444,30937,12/12/2018,Credit Card,Online,SALE6543
+CUST063,Wine - Winzer Krems Gruner,866,85940,10/08/2015,Google Pay,In-store,SALE4567
+CUST093,"Cherries - Bing, Canned",417,90846,09/08/2021,PayPal,Online,SALE2134
+CUST038,Cinnamon Buns Sticky,3,34310,24/04/2016,Google Pay,Online,SALE4567
+CUST014,Pork Ham Prager,716,84881,21/02/2013,PayPal,Online,SALE9876
+CUST022,Spinach - Frozen,705,20735,02/12/2020,PayPal,In-store,SALE6547
+CUST003,"Yogurt - Blueberry, 175 Gr",291,63046,22/09/2006,PayPal,In-store,SALE2345
+CUST007,Rice - Aborio,246,31114,03/07/2015,PayPal,Online,SALE3456
+CUST087,Ice Cream Bar - Oreo Cone,875,47961,18/06/2010,Cash,In-store,SALE7890
+CUST047,Cheese - Cottage Cheese,582,35783,08/11/2014,Debit Card,In-store,SALE5432
+CUST039,"Wine - Magnotta, Merlot Sr Vqa",463,4257,24/03/2016,Apple Pay,Online,SALE6578
+CUST062,Soup - Campbells - Chicken Noodle,843,10691,03/02/2022,Credit Card,In-store,SALE8760
+CUST009,Truffle Paste,102,88742,24/07/2022,Google Pay,In-store,SALE4326
+CUST068,Papadam,589,37432,10/10/2018,Google Pay,In-store,SALE6547
+CUST078,Nori Sea Weed - Gold Label,451,76605,13/03/2005,Debit Card,Online,SALE8765
+CUST053,Sorrel - Fresh,27,58312,03/03/2010,PayPal,In-store,SALE6789
+CUST075,Lobster - Tail 6 Oz,2,67087,18/04/2009,PayPal,Online,SALE0912
+CUST052,Melon - Watermelon Yellow,295,49319,08/02/2009,Google Pay,In-store,SALE4567
+CUST041,Wine - Pinot Noir Stoneleigh,289,6457,11/08/2003,Credit Card,Online,SALE8901
+CUST014,Calypso - Strawberry Lemonade,385,16020,27/04/2020,Apple Pay,In-store,SALE0912
+CUST059,Soup - Tomato Mush. Florentine,955,5870,07/08/2013,Debit Card,Online,SALE9876
+CUST041,Appetizer - Assorted Box,284,12852,18/04/2006,PayPal,In-store,SALE4356
+CUST063,Towels - Paper / Kraft,93,54941,30/01/2006,PayPal,Online,SALE0123
+CUST061,"Cherries - Bing, Canned",735,27054,11/06/2006,PayPal,In-store,SALE4567
+CUST014,Tomato - Green,678,77622,08/08/2008,Debit Card,In-store,SALE6578
+CUST061,Sauce - Vodka Blush,108,22278,29/01/2017,Google Pay,Online,SALE2190
+CUST019,Pop - Club Soda Can,146,84390,15/02/2021,Debit Card,In-store,SALE9876
+CUST085,Table Cloth 81x81 White,860,16804,29/10/2020,Cash,Online,SALE8901
+CUST019,Plasticforkblack,856,78090,20/03/2020,PayPal,Online,SALE8790
+CUST051,Foam Tray S2,252,15136,21/11/2022,Debit Card,In-store,SALE2109
+CUST030,Butter Sweet,891,93431,22/09/2003,Google Pay,Online,SALE4321
+CUST097,"Wine - White, Gewurtzraminer",900,27416,27/01/2013,Google Pay,In-store,SALE6578
+CUST087,Fudge - Chocolate Fudge,6,55964,19/09/2011,Apple Pay,In-store,SALE2345
+CUST011,"Mushroom - Chanterelle, Dry",418,17692,13/01/2004,Debit Card,Online,SALE2190
+CUST003,"Cheese - Brie, Triple Creme",313,15445,02/10/2021,Cash,In-store,SALE7890
+CUST025,Wine - Champagne Brut Veuve,844,40023,28/03/2004,PayPal,Online,SALE4321
+CUST013,Grapes - Red,79,96110,29/12/2004,PayPal,In-store,SALE0912
+CUST038,Cheese - Cambozola,1000,72839,24/01/2011,Apple Pay,In-store,SALE0912
+CUST046,Beef Tenderloin Aaa,449,20073,28/06/2004,Cash,In-store,SALE4567
+CUST079,"Zucchini - Mini, Green",17,36535,02/05/2018,Apple Pay,Online,SALE0123
+CUST086,"Bar Mix - Pina Colada, 355 Ml",178,4376,04/07/2008,Cash,Online,SALE0123
+CUST076,Vegetable - Base,116,2507,02/08/2015,Apple Pay,Online,SALE4321
+CUST053,Steampan - Lid For Half Size,150,67243,08/10/2013,Credit Card,Online,SALE8901
+CUST047,"Red Snapper - Fillet, Skin On",231,9414,11/09/2020,Credit Card,In-store,SALE2190
+CUST016,Steam Pan Full Lid,768,81156,02/07/2013,Cash,In-store,SALE9876
+CUST022,"Wine - Red, Gallo, Merlot",870,21220,19/04/2013,Credit Card,In-store,SALE6543
+CUST059,Beef - Cow Feet Split,141,6656,04/11/2003,Credit Card,In-store,SALE0123
+CUST003,Wine - Semi Dry Riesling Vineland,421,67477,27/03/2008,PayPal,In-store,SALE6547
+CUST018,"Wine - Red, Mosaic Zweigelt",901,29794,30/10/2011,Cash,Online,SALE0123
+CUST049,Muffin - Bran Ind Wrpd,47,43554,28/08/2008,PayPal,In-store,SALE8901
+CUST079,Chocolate Bar - Oh Henry,937,74012,21/06/2010,Apple Pay,Online,SALE4326
+CUST019,Lemon Tarts,617,69542,08/05/2012,Debit Card,Online,SALE8765
+CUST081,Piping - Bags Quizna,529,83547,08/07/2022,Google Pay,In-store,SALE9012
+CUST036,"Pasta - Cappellini, Dry",163,40685,09/11/2012,Debit Card,Online,SALE8760
+CUST047,Wine - Valpolicella Masi,852,92209,13/06/2004,Apple Pay,Online,SALE0123
+CUST094,"Basil - Primerba, Paste",492,92026,19/02/2014,Cash,In-store,SALE9876
+CUST100,Pop Shoppe Cream Soda,63,10429,24/07/2018,Apple Pay,In-store,SALE8901
+CUST062,Appetizer - Lobster Phyllo Roll,481,74974,27/11/2007,Cash,Online,SALE2345
+CUST051,Truffle Shells - Semi - Sweet,745,68273,17/02/2020,Apple Pay,In-store,SALE4567
+CUST065,Cookies Cereal Nut,736,54107,23/06/2019,Debit Card,Online,SALE2134
+CUST094,Mince Meat - Filling,218,9306,23/04/2019,PayPal,In-store,SALE2190
+CUST079,Wine - Balbach Riverside,280,79258,24/07/2010,Apple Pay,In-store,SALE4567
+CUST091,Turkey Tenderloin Frozen,913,41864,14/11/2009,Credit Card,Online,SALE9876
+CUST003,Carroway Seed,19,6099,29/03/2003,Cash,In-store,SALE6547
+CUST100,Blue Curacao - Marie Brizard,35,53146,20/07/2012,PayPal,Online,SALE6547
+CUST087,Crab - Meat,800,50232,07/08/2015,Apple Pay,In-store,SALE2190
+CUST048,"Bread - Roll, Soft White Round",312,30484,26/06/2014,Google Pay,In-store,SALE9012
+CUST055,Chips - Potato Jalapeno,730,56868,28/04/2019,PayPal,Online,SALE0987
+CUST061,Yogurt - Assorted Pack,275,48239,23/03/2014,PayPal,In-store,SALE2190
+CUST076,Ecolab - Mikroklene 4/4 L,29,90991,30/06/2015,Debit Card,Online,SALE0981
+CUST025,Saskatoon Berries - Frozen,463,1316,09/06/2011,Debit Card,Online,SALE0981
+CUST043,Beer - Tetleys,562,72140,04/07/2016,Cash,Online,SALE4321
+CUST002,Dragon Fruit,360,80840,08/02/2022,Credit Card,In-store,SALE7890
+CUST016,Soup Knorr Chili With Beans,435,3374,22/06/2009,Cash,In-store,SALE8765
+CUST087,Vinegar - Sherry,413,99355,05/09/2014,PayPal,Online,SALE8901
+CUST010,Jello - Assorted,464,11546,13/01/2004,Apple Pay,In-store,SALE6789
+CUST019,Chinese Foods - Cantonese,633,6522,07/03/2021,Cash,In-store,SALE2134
+CUST064,Soy Protein,396,23883,17/02/2016,Credit Card,In-store,SALE7890
+CUST068,Pate Pans Yellow,326,37439,02/03/2020,Apple Pay,Online,SALE6789
+CUST061,Milk Powder,267,45164,13/12/2016,Apple Pay,Online,SALE4567
+CUST031,Rice - Jasmine Sented,504,21858,14/04/2008,Credit Card,In-store,SALE0981
+CUST088,Soup - French Onion,408,5838,07/06/2018,Credit Card,Online,SALE8790
+CUST031,"Wine - White, Riesling, Semi - Dry",881,48522,15/12/2021,PayPal,In-store,SALE2190
+CUST023,Pork - Backs - Boneless,562,46733,07/01/2011,Google Pay,Online,SALE2109
+CUST004,Cheese - Montery Jack,357,78555,15/06/2017,Apple Pay,Online,SALE8760
+CUST100,"Soup - Beef, Base Mix",342,2401,04/01/2006,Credit Card,In-store,SALE8901
+CUST049,Appetizer - Southwestern,72,44308,27/10/2009,Debit Card,Online,SALE2134
+CUST024,"Water - Spring Water, 355 Ml",253,16537,28/02/2008,Google Pay,Online,SALE9876
+CUST091,Sloe Gin - Mcguinness,108,87224,12/06/2006,PayPal,In-store,SALE6789
+CUST091,Beets - Pickled,606,66776,15/03/2006,Cash,Online,SALE4326
+CUST031,"Pork - Chop, Frenched",612,19195,11/11/2014,Google Pay,In-store,SALE4326
+CUST060,Wine - Casillero Del Diablo,685,25218,04/01/2010,Credit Card,In-store,SALE9876
+CUST062,Juice - Orangina,400,90803,08/02/2012,Google Pay,In-store,SALE2109
+CUST007,Fireball Whisky,652,1013,16/12/2018,Cash,In-store,SALE2109
+CUST062,Apple - Macintosh,264,47815,03/11/2009,PayPal,In-store,SALE6547
+CUST067,Bread Base - Italian,287,69039,01/12/2022,Debit Card,Online,SALE1234
+CUST051,Cookies - Englishbay Chochip,286,14078,16/10/2021,Debit Card,In-store,SALE8765
+CUST084,Longos - Burritos,135,77547,30/01/2009,Debit Card,Online,SALE2109
+CUST041,Beef - Short Loin,494,35479,19/01/2020,Credit Card,Online,SALE6578
+CUST050,Beer - Steamwhistle,870,16479,03/10/2015,Debit Card,Online,SALE2190
+CUST031,Shrimp - 150 - 250,878,78410,13/09/2016,Cash,In-store,SALE9012
+CUST085,Napkin Colour,702,32294,20/08/2019,Cash,Online,SALE8790
+CUST004,Piping Jelly - All Colours,850,49743,04/10/2010,Credit Card,In-store,SALE4356
+CUST019,"Pepper - Julienne, Frozen",316,60379,01/01/2004,Google Pay,In-store,SALE0981
+CUST053,Cheese - Bocconcini,778,97119,26/06/2004,Google Pay,Online,SALE8901
+CUST100,Soup Knorr Chili With Beans,633,33212,18/01/2008,Credit Card,Online,SALE4356
+CUST074,Turkey - Oven Roast Breast,236,30702,28/08/2019,Debit Card,In-store,SALE6578
+CUST010,"Water - Mineral, Carbonated",786,26255,07/12/2010,Google Pay,Online,SALE8790
+CUST069,"Pork - Bacon,back Peameal",54,27009,07/06/2007,Apple Pay,In-store,SALE2109
+CUST072,Ginger - Pickled,350,80324,05/01/2003,Apple Pay,Online,SALE2190
+CUST012,Puree - Strawberry,209,34021,19/09/2016,Google Pay,In-store,SALE4321
+CUST067,"Pepper - Black, Whole",634,18849,07/07/2011,Credit Card,Online,SALE6578
+CUST029,Icecream - Dibs,570,95196,21/10/2013,Credit Card,Online,SALE9876
+CUST054,"Doilies - 7, Paper",277,4062,06/04/2015,Google Pay,Online,SALE4567
+CUST056,Samosa - Veg,195,4837,25/01/2009,Credit Card,Online,SALE6789
+CUST085,Sugar - Icing,469,37825,05/09/2013,Debit Card,Online,SALE2134
+CUST042,Veal - Heart,619,22178,02/04/2011,Google Pay,Online,SALE6789
+CUST050,Sole - Iqf,460,79933,11/05/2014,Debit Card,Online,SALE6578
+CUST068,"Appetizer - Mini Egg Roll, Shrimp",26,27653,02/12/2003,Debit Card,In-store,SALE8765
+CUST078,Hipnotiq Liquor,873,85173,16/01/2004,Cash,Online,SALE9012
+CUST082,"Doilies - 10, Paper",101,83962,27/03/2020,Cash,Online,SALE2345
+CUST091,Onions - Cippolini,615,24645,29/11/2019,Google Pay,Online,SALE8790
+CUST079,Buffalo - Striploin,720,61828,20/09/2020,Google Pay,Online,SALE9012
+CUST075,Sansho Powder,96,74040,05/08/2016,Google Pay,Online,SALE4321
+CUST027,Scotch - Queen Anne,437,24410,10/11/2018,Credit Card,Online,SALE6547
+CUST007,"Arctic Char - Fresh, Whole",999,29095,22/04/2013,Apple Pay,Online,SALE4567
+CUST015,"Wine - White, Pelee Island",531,61088,07/09/2015,Credit Card,Online,SALE8765
+CUST070,Pork - Suckling Pig,118,91881,09/04/2009,Google Pay,Online,SALE4567
+CUST045,Soup - Campbells - Tomato,522,62182,23/02/2021,PayPal,In-store,SALE8901
+CUST037,Juice - Happy Planet,335,14737,11/01/2018,Cash,In-store,SALE8790
+CUST060,Remy Red,243,97046,11/04/2012,PayPal,Online,SALE6547
+CUST016,"Pepper - Julienne, Frozen",918,4366,06/07/2017,PayPal,In-store,SALE6578
+CUST006,"Nut - Walnut, Pieces",666,27605,19/06/2022,Google Pay,In-store,SALE6543
+CUST059,Wine - Vouvray Cuvee Domaine,659,10003,23/03/2013,Cash,Online,SALE4567
+CUST074,Crab Meat Claw Pasteurise,250,34741,12/08/2018,Apple Pay,In-store,SALE2190
+CUST057,"Zucchini - Mini, Green",607,34200,23/08/2017,Apple Pay,Online,SALE0912
+CUST035,Coriander - Seed,324,28933,19/05/2009,Apple Pay,In-store,SALE0987
+CUST074,"Crab - Back Fin Meat, Canned",786,54609,18/03/2010,Google Pay,Online,SALE8765
+CUST073,Soup - Campbells Chicken,401,54441,13/11/2004,Cash,Online,SALE4567
+CUST044,"Oil - Food, Lacquer Spray",969,61801,15/11/2005,Debit Card,Online,SALE0981
+CUST059,Squash - Sunburst,264,34296,24/03/2022,Cash,In-store,SALE6789
+CUST022,Spice - Peppercorn Melange,557,7708,27/10/2008,Cash,Online,SALE8760
+CUST078,"Trout - Rainbow, Fresh",567,50881,11/07/2012,Google Pay,Online,SALE6789
+CUST065,"Lamb - Whole, Frozen",570,40146,08/11/2022,Credit Card,In-store,SALE9876
+CUST051,Ham - Cooked,670,28574,11/08/2012,Cash,Online,SALE8901
+CUST069,Nantuket Peach Orange,799,77310,06/09/2013,PayPal,In-store,SALE6789
+CUST005,Cheese - Taleggio D.o.p.,587,54851,05/02/2013,Google Pay,In-store,SALE6578
+CUST033,Tilapia - Fillets,432,97018,22/05/2020,Debit Card,In-store,SALE5678
+CUST097,Pike - Frozen Fillet,377,28657,29/09/2012,Credit Card,Online,SALE2190
+CUST067,Oven Mitts - 15 Inch,898,78129,30/11/2004,Apple Pay,In-store,SALE0123
+CUST061,Mousse - Banana Chocolate,791,95644,31/12/2005,Cash,In-store,SALE2134
+CUST014,Crab - Meat Combo,334,98412,06/02/2019,Google Pay,In-store,SALE4356
+CUST098,"Pasta - Canelloni, Single Serve",13,62606,08/06/2014,Credit Card,In-store,SALE8790
+CUST094,Soup - Tomato Mush. Florentine,946,2218,11/02/2007,PayPal,Online,SALE6578
+CUST004,Apricots - Dried,639,72825,29/09/2020,PayPal,In-store,SALE8901
+CUST058,"Mustard - Dry, Powder",690,88066,01/02/2020,Cash,In-store,SALE6547
+CUST035,Beer - Camerons Auburn,971,4314,14/06/2020,Google Pay,In-store,SALE2190
+CUST078,"Salmon - Whole, 4 - 6 Pounds",912,66911,15/07/2010,PayPal,In-store,SALE2109
+CUST032,Bread - Raisin Walnut Pull,546,79748,23/04/2013,PayPal,Online,SALE8760
+CUST074,Cream - 35%,855,95897,21/01/2015,Google Pay,Online,SALE0123
+CUST069,Gatorade - Lemon Lime,373,97039,24/06/2011,PayPal,Online,SALE2134
+CUST001,Beer - Labatt Blue,360,49387,22/12/2011,Apple Pay,In-store,SALE2134
+CUST012,Quail - Jumbo Boneless,331,36909,22/08/2012,Apple Pay,Online,SALE2190
+CUST080,Gooseberry,825,37907,07/08/2019,Apple Pay,In-store,SALE8760
+CUST089,Shrimp - Prawn,434,46075,04/11/2014,Apple Pay,In-store,SALE6543
+CUST078,Chicken - Bones,110,25436,11/04/2018,Apple Pay,In-store,SALE9876
+CUST011,Neckerchief Blck,38,87081,01/06/2010,Cash,Online,SALE8901
+CUST086,Fudge - Cream Fudge,632,33195,15/04/2022,PayPal,Online,SALE4356
+CUST009,Cinnamon Buns Sticky,787,9722,22/05/2007,Cash,In-store,SALE2134
+CUST097,Energy Drink Red Bull,690,80906,05/06/2018,Apple Pay,In-store,SALE8901
+CUST026,Tomatoes - Heirloom,225,62166,04/06/2010,Google Pay,In-store,SALE4567
+CUST010,Chocolate - Mi - Amere Semi,17,46278,28/08/2009,PayPal,Online,SALE0123
+CUST007,"Wine - Sherry Dry Sack, William",361,92763,14/09/2019,Debit Card,In-store,SALE2190
+CUST077,Chinese Foods - Chicken Wing,545,93720,09/03/2011,PayPal,Online,SALE9876
+CUST090,Cheese - Comtomme,650,7422,14/03/2006,Debit Card,Online,SALE4356
+CUST030,"Zucchini - Mini, Green",498,38645,18/03/2016,Debit Card,In-store,SALE8790
+CUST037,Red Cod Fillets - 225g,654,40625,20/12/2011,Debit Card,Online,SALE6547
+CUST011,"Jam - Marmalade, Orange",977,8588,17/10/2010,Credit Card,Online,SALE2345
+CUST004,Wine - Jafflin Bourgongone,51,20489,23/05/2015,Debit Card,Online,SALE2134
+CUST072,"Lamb - Leg, Boneless",428,12214,20/11/2013,Debit Card,Online,SALE4321
+CUST019,"Water - Spring Water, 355 Ml",890,23686,14/12/2009,PayPal,Online,SALE6789
+CUST006,Soup - French Onion,752,45800,25/01/2008,Debit Card,Online,SALE4321
+CUST023,Table Cloth 54x54 Colour,722,43915,18/08/2012,Credit Card,Online,SALE2134
+CUST090,Beef - Short Ribs,711,14413,31/10/2020,Cash,Online,SALE6789
+CUST003,"Soup - Campbells, Spinach Crm",756,17226,03/07/2013,Cash,Online,SALE1234
+CUST017,Remy Red,792,78272,30/03/2011,Cash,Online,SALE8760
+CUST003,Cup - Translucent 7 Oz Clear,540,38848,28/08/2008,Apple Pay,In-store,SALE2134
+CUST008,Appetizer - Seafood Assortment,422,34471,29/06/2022,Cash,Online,SALE4567
+CUST012,Jagermeister,874,70053,28/02/2017,PayPal,In-store,SALE9012
+CUST032,Vinegar - Balsamic,581,78096,16/01/2005,PayPal,In-store,SALE6789
+CUST036,Beer - Moosehead,717,56566,15/06/2014,PayPal,In-store,SALE2134
+CUST006,Sauce - Balsamic Viniagrette,69,60310,13/04/2006,Debit Card,In-store,SALE4326
+CUST099,"Nut - Cashews, Whole, Raw",962,44234,29/07/2020,Google Pay,In-store,SALE2190
+CUST070,"Salmon - Smoked, Sliced",414,72990,12/02/2013,Credit Card,In-store,SALE9876
+CUST098,Pectin,573,9077,31/05/2019,Cash,In-store,SALE2134
+CUST011,Versatainer Nc - 888,342,55568,28/02/2007,PayPal,Online,SALE0981
+CUST042,Crab - Imitation Flakes,951,35311,19/05/2018,Credit Card,In-store,SALE8790
+CUST032,Sage - Fresh,732,96917,18/07/2013,PayPal,In-store,SALE6547
+CUST028,Syrup - Monin - Granny Smith,909,3152,15/11/2013,Debit Card,In-store,SALE2345
+CUST079,Bagel - Sesame Seed Presliced,44,41551,17/01/2022,Cash,In-store,SALE0123
+CUST084,Miso Paste White,252,16197,25/02/2019,Debit Card,Online,SALE0123
+CUST097,Ice Cream - Chocolate,822,3828,14/07/2019,Credit Card,In-store,SALE9876
+CUST094,Pork - Backs - Boneless,146,92042,21/10/2020,Google Pay,In-store,SALE4321
+CUST082,Onions - Green,705,62946,14/07/2015,PayPal,In-store,SALE4356
+CUST051,Tomatoes - Hot House,630,46900,14/07/2019,PayPal,In-store,SALE2134
+CUST026,Avocado,283,64645,25/05/2011,Cash,Online,SALE2190
+CUST097,Cheese - Oka,22,31796,20/10/2007,Cash,Online,SALE8760
+CUST093,Flax Seed,887,25868,21/06/2019,Credit Card,Online,SALE0981
+CUST013,Madeira,253,87286,09/05/2019,Apple Pay,In-store,SALE4567
+CUST041,Cocoa Powder - Dutched,252,1792,31/12/2015,Credit Card,Online,SALE9012
+CUST071,Parsley Italian - Fresh,803,9756,12/07/2011,Credit Card,In-store,SALE2134
+CUST081,Cheese - Le Cru Du Clocher,989,73270,19/03/2014,PayPal,Online,SALE4326
+CUST002,Potatoes - Peeled,645,44572,21/10/2009,Debit Card,Online,SALE0123
+CUST086,Foam Dinner Plate,472,11588,27/02/2019,Apple Pay,Online,SALE2345
+CUST071,Jerusalem Artichoke,206,41247,15/03/2022,Credit Card,Online,SALE4326
+CUST013,Melon - Cantaloupe,616,36749,10/05/2005,Google Pay,In-store,SALE6578
+CUST046,Chick Peas - Dried,903,10839,28/02/2006,Cash,In-store,SALE6547
+CUST027,Magnotta Bel Paese Red,868,88655,21/12/2006,Credit Card,Online,SALE0912
+CUST053,"Soup - Beef, Base Mix",260,65075,07/02/2019,Google Pay,Online,SALE0123
+CUST091,"Cheese - Havarti, Salsa",335,41438,23/06/2012,Cash,In-store,SALE4321
+CUST040,"Dill - Primerba, Paste",721,32386,22/10/2008,Google Pay,Online,SALE4326
+CUST028,Trueblue - Blueberry 12x473ml,179,75320,28/08/2016,Debit Card,Online,SALE6547
+CUST030,Bread - Pumpernickel,233,41922,08/04/2018,Cash,Online,SALE2109
+CUST030,Island Oasis - Ice Cream Mix,265,32677,06/06/2010,Apple Pay,In-store,SALE6578
+CUST092,Banana,256,73390,30/04/2015,Debit Card,Online,SALE0123
+CUST098,Beans - Fine,736,38854,01/03/2007,Apple Pay,In-store,SALE8901
+CUST025,Vinegar - Red Wine,986,85664,08/04/2022,PayPal,In-store,SALE4356
+CUST063,Dr. Pepper - 355ml,476,20165,19/06/2019,Cash,Online,SALE6543
+CUST067,Sprouts - Baby Pea Tendrils,234,7051,23/03/2012,Cash,In-store,SALE0912
+CUST056,Ecolab - Ster Bac,34,4876,17/09/2008,Credit Card,In-store,SALE2109
+CUST009,"Mushroom - Chantrelle, Fresh",733,70493,09/07/2020,Credit Card,In-store,SALE4567
+CUST038,"Nut - Almond, Blanched, Whole",293,62368,24/12/2016,Cash,Online,SALE4326
+CUST011,V8 Pet,666,34221,14/04/2014,Debit Card,In-store,SALE4356
+CUST007,Wine - Magnotta - Belpaese,524,2419,26/01/2009,Cash,Online,SALE4321
+CUST071,"Lemonade - Mandarin, 591 Ml",337,26421,06/01/2011,Credit Card,Online,SALE5432
+CUST032,Peppercorns - Pink,525,18154,29/01/2012,Google Pay,In-store,SALE5432
+CUST048,Muffin - Carrot Individual Wrap,136,24825,13/03/2012,Google Pay,In-store,SALE6578
+CUST072,Sping Loaded Cup Dispenser,9,68332,01/01/2021,Debit Card,In-store,SALE6578
+CUST053,Pepper - Cubanelle,484,40882,11/08/2010,PayPal,Online,SALE2345
+CUST100,Lidsoupcont Rp12dn,206,13345,05/10/2018,PayPal,In-store,SALE0912
+CUST032,Salad Dressing,125,24628,17/08/2007,PayPal,Online,SALE6547
+CUST090,"Lemonade - Black Cherry, 591 Ml",690,48106,27/11/2020,Credit Card,In-store,SALE2345
+CUST096,Marzipan 50/50,464,18290,11/04/2016,Cash,Online,SALE6543
+CUST011,Halibut - Steaks,123,41622,18/03/2003,Debit Card,Online,SALE9012
+CUST052,Cheese - Bakers Cream Cheese,824,51340,27/02/2003,Cash,In-store,SALE5432
+CUST064,"Soup - Knorr, Classic Can. Chili",637,13166,02/07/2011,Debit Card,Online,SALE8765
+CUST086,Onion - Dried,913,34172,14/01/2016,Cash,Online,SALE4567
+CUST028,Melon - Honey Dew,796,86745,06/01/2004,Google Pay,Online,SALE4326
+CUST059,Flour - Teff,393,71029,30/07/2003,Apple Pay,Online,SALE8765
+CUST052,"Pasta - Penne Primavera, Single",470,43636,04/05/2018,Apple Pay,Online,SALE4326
+CUST059,Cod - Fillets,206,90051,16/08/2021,PayPal,In-store,SALE8765
+CUST090,V8 Splash Strawberry Banana,201,51339,25/04/2018,Google Pay,Online,SALE0981
+CUST051,Kale - Red,454,88725,19/11/2022,Google Pay,Online,SALE8765
+CUST093,The Pop Shoppe - Cream Soda,889,9026,15/03/2014,PayPal,In-store,SALE4356
+CUST006,Guinea Fowl,998,32325,13/01/2014,Credit Card,Online,SALE8760
+CUST084,"Doilies - 5, Paper",213,68382,11/08/2007,Apple Pay,Online,SALE6578
+CUST040,"Water - Mineral, Carbonated",323,81466,02/09/2017,Google Pay,In-store,SALE8901
+CUST097,Table Cloth 54x72 Colour,966,93927,14/06/2013,PayPal,In-store,SALE2190
+CUST004,Wine - Balbach Riverside,36,22299,24/11/2016,Debit Card,Online,SALE1234
+CUST084,Five Alive Citrus,227,41794,09/02/2003,Cash,Online,SALE4321
+CUST091,Scallops - 10/20,374,7540,11/10/2003,Debit Card,Online,SALE6789
+CUST062,Magnotta - Bel Paese White,816,75193,07/10/2005,PayPal,In-store,SALE2109
+CUST034,Sauce - Alfredo,826,67693,11/09/2014,Google Pay,In-store,SALE2109
+CUST080,Icecream - Dstk Strw Chseck,685,24422,24/10/2014,Cash,In-store,SALE0987
+CUST089,Table Cloth 62x120 White,634,13574,27/04/2008,Google Pay,Online,SALE0981
+CUST049,Turkey Leg With Drum And Thigh,144,56758,22/02/2003,Google Pay,In-store,SALE7890
+CUST096,Soup - Campbells Chicken,146,3079,18/05/2021,Google Pay,Online,SALE4356
+CUST012,Chips Potato Reg 43g,444,89081,25/11/2003,Credit Card,In-store,SALE8790
+CUST085,Muffin - Carrot Individual Wrap,323,60957,14/06/2021,Credit Card,Online,SALE6543
+CUST025,Bread Sour Rolls,747,28881,30/09/2022,Debit Card,In-store,SALE6789
+CUST056,Squid U5 - Thailand,194,34807,12/03/2016,Debit Card,In-store,SALE5432
+CUST059,Hot Chocolate - Individual,572,3607,25/02/2014,Debit Card,In-store,SALE2109
+CUST036,Wine - Rosso Toscano Igt,441,79563,02/12/2020,Credit Card,In-store,SALE6543
+CUST080,Carbonated Water - Wildberry,857,77955,21/02/2018,Credit Card,In-store,SALE2109
+CUST074,Milk - 1%,49,58077,13/09/2008,Apple Pay,Online,SALE9876
+CUST088,Table Cloth - 53x69 Colour,842,8722,22/11/2018,Credit Card,Online,SALE2190
+CUST084,Calypso - Lemonade,723,87210,13/03/2005,Apple Pay,Online,SALE9876
+CUST022,Wine - Riesling Alsace Ac 2001,765,54893,01/11/2019,Apple Pay,In-store,SALE4321
+CUST048,Wine - Fat Bastard Merlot,185,26701,17/10/2006,Credit Card,Online,SALE0981
+CUST011,Snapple - Mango Maddness,988,96377,17/05/2018,Apple Pay,Online,SALE6547
+CUST061,Veal - Osso Bucco,370,34574,04/05/2017,Google Pay,Online,SALE6789
+CUST017,"Salmon - Atlantic, No Skin",898,8606,04/04/2020,Cash,In-store,SALE0987
+CUST066,Lobster - Base,62,67473,25/04/2021,Apple Pay,In-store,SALE8901
+CUST005,"Spoon - Soup, Plastic",943,41824,29/09/2022,Cash,In-store,SALE8901
+CUST043,Black Currants,41,99366,26/12/2016,PayPal,In-store,SALE9012
+CUST059,Chicken - Bones,619,90952,04/11/2003,Debit Card,Online,SALE0123
+CUST091,Skirt - 24 Foot,127,14727,14/07/2013,Google Pay,In-store,SALE5432
+CUST018,V8 Splash Strawberry Kiwi,235,16687,22/11/2015,Apple Pay,Online,SALE6578
+CUST066,Tea - Green,886,42138,19/10/2013,Google Pay,Online,SALE5432
+CUST039,Orange Roughy 6/8 Oz,357,66107,17/09/2022,Apple Pay,In-store,SALE8760
+CUST041,Oven Mitts 17 Inch,164,79120,24/02/2003,Credit Card,In-store,SALE6789
+CUST035,Cookies - Englishbay Oatmeal,610,17007,09/09/2019,Credit Card,In-store,SALE8765
+CUST097,Scallops - 20/30,951,35860,27/05/2021,Apple Pay,Online,SALE8760
+CUST031,Kohlrabi,928,8138,01/08/2015,Google Pay,Online,SALE0981
+CUST062,Glycerine,477,1072,21/03/2021,Google Pay,Online,SALE4567
+CUST059,Pie Box - Cello Window 2.5,610,55738,24/11/2015,PayPal,Online,SALE4567
+CUST036,Tomato Paste,85,58414,16/11/2021,Apple Pay,Online,SALE6547
+CUST088,"Wine - Red, Cabernet Sauvignon",777,22894,21/06/2020,Apple Pay,Online,SALE8765
+CUST088,Potato - Sweet,525,43921,25/04/2006,Apple Pay,In-store,SALE5432
+CUST026,Cheese - Cottage Cheese,364,1263,05/09/2009,Apple Pay,Online,SALE8765
+CUST028,"Chicken - White Meat, No Tender",410,42273,03/07/2011,Cash,Online,SALE2345
+CUST093,Truffle - Peelings,183,49983,01/11/2018,Debit Card,Online,SALE0981
+CUST087,Lid Tray - 16in Dome,232,80842,03/06/2017,Credit Card,In-store,SALE9876
+CUST032,Cookie Chocolate Chip With,618,91338,26/10/2004,PayPal,Online,SALE2190
+CUST025,Buffalo - Short Rib Fresh,836,43208,09/10/2007,Cash,Online,SALE2134
+CUST034,Glass - Juice Clear 5oz 55005,548,10877,01/10/2003,Debit Card,Online,SALE6789
+CUST100,Cake - Sheet Strawberry,810,40167,16/09/2017,PayPal,Online,SALE0123
+CUST100,Garam Masala Powder,586,50800,25/05/2006,PayPal,In-store,SALE4356
+CUST094,Mix - Cocktail Ice Cream,971,16644,18/05/2009,PayPal,In-store,SALE6789
+CUST034,Lettuce - Red Leaf,572,6702,30/10/2012,Apple Pay,In-store,SALE4326
+CUST078,Schnappes Peppermint - Walker,61,43648,19/12/2004,Cash,Online,SALE2134
+CUST061,"Shrimp - 16/20, Iqf, Shell On",43,39601,28/09/2010,Apple Pay,Online,SALE0123
+CUST085,Foie Gras,386,58640,21/12/2021,Credit Card,In-store,SALE6547
+CUST005,Seedlings - Clamshell,931,16052,31/01/2014,Credit Card,In-store,SALE0123
+CUST048,Tomatoes Tear Drop,569,4948,14/08/2004,Credit Card,In-store,SALE2345
+CUST068,"Fish - Artic Char, Cold Smoked",979,23813,24/02/2003,Cash,In-store,SALE2345
+CUST052,Fish - Bones,658,42672,04/02/2019,Google Pay,Online,SALE2345
+CUST003,Arizona - Plum Green Tea,563,91031,12/12/2005,Debit Card,Online,SALE4326
+CUST060,"Shrimp, Dried, Small / Lb",540,86511,26/12/2006,Debit Card,Online,SALE4321
+CUST063,Spice - Onion Powder Granulated,980,35661,04/10/2022,Debit Card,Online,SALE3456
+CUST039,Soup - Tomato Mush. Florentine,596,79919,21/09/2019,Credit Card,In-store,SALE8765
+CUST068,Plasticspoonblack,543,87768,05/06/2006,Google Pay,Online,SALE0981
+CUST082,Compound - Raspberry,556,47280,04/03/2006,Credit Card,In-store,SALE4321
+CUST043,"Juice - Cranberry, 341 Ml",354,13236,20/01/2011,Credit Card,In-store,SALE6547
+CUST015,Compound - Mocha,823,33376,15/07/2003,PayPal,Online,SALE4326
+CUST037,Cumin - Whole,1,10854,10/12/2010,Apple Pay,In-store,SALE9876
+CUST096,Apple - Custard,319,22701,22/07/2015,PayPal,Online,SALE2109
+CUST093,Flour - Whole Wheat,633,88871,30/11/2004,Debit Card,Online,SALE8901
+CUST027,Soap - Mr.clean Floor Soap,25,75546,28/08/2012,Debit Card,In-store,SALE4321
+CUST056,Beef Wellington,579,38585,07/11/2010,Apple Pay,Online,SALE6543
+CUST025,Tomatoes - Orange,732,20614,10/01/2016,Cash,Online,SALE4567
+CUST059,"Rice Pilaf, Dry,package",670,68607,04/05/2021,Google Pay,In-store,SALE4326
+CUST078,Juice - Propel Sport,223,56012,01/10/2008,Cash,Online,SALE4326
+CUST071,Sugar - Crumb,516,71987,11/09/2008,Cash,Online,SALE4326
+CUST025,"Extract - Vanilla,artificial",317,26307,08/08/2005,PayPal,In-store,SALE8760
+CUST056,Wine - Rosso Del Veronese Igt,718,36793,17/09/2007,Apple Pay,Online,SALE0123
+CUST067,Hagen Daza - Dk Choocolate,188,39073,15/10/2011,Debit Card,In-store,SALE2134
+CUST059,Calvados - Boulard,876,12116,27/06/2021,Credit Card,In-store,SALE8765
+CUST075,Beer - Blue Light,471,48332,31/05/2014,Credit Card,Online,SALE5432
+CUST054,Ham - Cooked,807,74477,22/01/2010,Google Pay,Online,SALE2345
+CUST079,Onions - White,163,42141,26/05/2022,Credit Card,In-store,SALE0981
+CUST079,Energy Drink,855,97228,29/11/2022,Apple Pay,In-store,SALE6789
+CUST010,"Lamb - Racks, Frenched",225,17695,23/11/2006,Credit Card,Online,SALE2134
+CUST085,Tuna - Loin,641,31367,24/10/2012,Debit Card,In-store,SALE9012
+CUST080,Pear - Packum,51,70903,18/03/2006,Debit Card,In-store,SALE6547
+CUST088,Melon - Honey Dew,378,23442,20/05/2004,Google Pay,In-store,SALE4356
+CUST005,Sauce - Cranberry,254,44405,13/08/2020,Google Pay,Online,SALE6578
+CUST067,"Tomatoes - Cherry, Yellow",808,49554,04/05/2003,PayPal,In-store,SALE6547
+CUST004,Lemon Grass,407,80959,10/05/2005,Apple Pay,Online,SALE2109
+CUST035,Beans - Fava Fresh,172,58882,18/04/2022,PayPal,Online,SALE1234
+CUST049,Gatorade - Fruit Punch,725,83692,04/03/2016,Debit Card,In-store,SALE4326
+CUST008,Wine - Sauvignon Blanc,204,11282,08/07/2013,PayPal,In-store,SALE8760
+CUST040,V8 Splash Strawberry Kiwi,813,59591,12/11/2013,Cash,In-store,SALE8765
+CUST026,Bread - French Baquette,479,37396,21/02/2018,Debit Card,Online,SALE9876
+CUST015,Venison - Ground,771,16345,16/10/2007,Cash,In-store,SALE4321
+CUST029,Lid - 16 Oz And 32 Oz,594,12711,22/07/2013,Cash,In-store,SALE6543
+CUST077,Beer - Moosehead,509,72887,11/04/2008,Google Pay,In-store,SALE8765
+CUST040,Apple - Granny Smith,998,3251,07/05/2016,Credit Card,In-store,SALE0981
+CUST076,Bread Base - Italian,922,46247,02/03/2022,Debit Card,Online,SALE0981
+CUST031,Fennel - Seeds,413,92140,25/09/2020,Cash,Online,SALE4326
+CUST041,Capon - Whole,674,1584,18/05/2007,Cash,Online,SALE4567
+CUST093,Wine - Tribal Sauvignon,543,6440,01/12/2016,PayPal,In-store,SALE0981
+CUST054,"Water - Mineral, Carbonated",534,24598,24/05/2022,Cash,Online,SALE5678
+CUST061,Ice Cream - Strawberry,928,12786,06/05/2006,Credit Card,In-store,SALE8901
+CUST053,Cleaner - Bleach,31,23885,02/08/2021,PayPal,In-store,SALE8790
+CUST038,Orange - Blood,150,64847,07/11/2016,Debit Card,In-store,SALE2134
+CUST051,Puree - Kiwi,235,45592,09/07/2009,Cash,In-store,SALE6543
+CUST067,"Wine - White, Riesling, Semi - Dry",902,19171,21/11/2004,Credit Card,In-store,SALE4321
+CUST075,Jolt Cola - Electric Blue,235,23357,23/06/2008,PayPal,Online,SALE4321
+CUST011,Hipnotiq Liquor,660,39615,07/07/2016,Credit Card,Online,SALE9012
+CUST044,"Shrimp - Baby, Cold Water",880,58272,13/06/2022,PayPal,In-store,SALE8790
+CUST057,"Rum - Cream, Amarula",295,24961,07/01/2012,Cash,Online,SALE8790
+CUST063,Gatorade - Lemon Lime,384,77946,16/02/2022,Credit Card,Online,SALE2109
+CUST067,Bread - French Stick,402,79390,22/11/2017,Cash,In-store,SALE4356
+CUST056,Sugar - Invert,107,23399,11/03/2015,PayPal,In-store,SALE2109
+CUST020,"Lamb - Pieces, Diced",270,23744,23/05/2016,Apple Pay,In-store,SALE6789
+CUST100,Muffin Puck Ww Carrot,652,89089,04/03/2014,Credit Card,Online,SALE8790
+CUST021,"Nut - Pistachio, Shelled",471,53512,16/11/2014,Google Pay,Online,SALE0981
+CUST024,Tea - Herbal Orange Spice,926,82816,25/02/2010,PayPal,Online,SALE4321
+CUST067,"Beef - Bones, Cut - Up",426,588,06/12/2009,Credit Card,Online,SALE0912
+CUST031,Snapple Raspberry Tea,533,5732,10/10/2019,Google Pay,Online,SALE4326
+CUST012,Flower - Dish Garden,620,44340,19/01/2005,Credit Card,Online,SALE6578
+CUST059,Mince Meat - Filling,602,62094,02/02/2005,PayPal,In-store,SALE2134
+CUST084,Soup - Verve - Chipotle Chicken,847,6077,09/11/2018,Cash,Online,SALE8790
+CUST024,"Soup - Knorr, Ministrone",675,65416,23/08/2011,Debit Card,In-store,SALE6547
+CUST060,Sauce - Hp,311,8403,22/02/2014,PayPal,In-store,SALE6543
+CUST063,Mix - Cappucino Cocktail,825,31118,24/05/2005,PayPal,In-store,SALE4326
+CUST035,Nut - Pumpkin Seeds,637,75784,07/06/2013,Cash,In-store,SALE6578
+CUST073,Cookies Almond Hazelnut,955,29355,10/07/2013,Google Pay,Online,SALE0987
+CUST013,"Mushroom - Shitake, Dry",887,93593,03/10/2014,PayPal,In-store,SALE6789
+CUST059,Relish,823,94035,28/07/2017,Apple Pay,Online,SALE3456
+CUST004,Cheese - Cottage Cheese,607,37469,19/03/2006,PayPal,In-store,SALE8760
+CUST048,Pepperoni Slices,480,64643,29/12/2012,Cash,In-store,SALE0123
+CUST007,Cumin - Ground,596,47147,06/09/2012,Cash,Online,SALE0912
+CUST019,"Beef - Tenderlion, Center Cut",528,99729,22/06/2022,PayPal,In-store,SALE2345
+CUST048,Wine - Piper Heidsieck Brut,650,70621,21/11/2020,Debit Card,In-store,SALE6789
+CUST046,Bandage - Finger Cots,334,97332,15/09/2016,Google Pay,Online,SALE2134
+CUST070,Tarts Assorted,901,49591,22/04/2013,Apple Pay,In-store,SALE6547
+CUST022,"Beef - Tongue, Fresh",841,40859,12/09/2003,Apple Pay,Online,SALE4356
+CUST022,Hagen Daza - Dk Choocolate,607,50423,01/01/2017,Google Pay,Online,SALE0987
+CUST041,Flower - Carnations,964,31945,24/06/2013,Credit Card,In-store,SALE2109
+CUST091,Squash - Butternut,866,5234,24/07/2010,Cash,In-store,SALE5432
+CUST084,Coffee - Irish Cream,318,18481,31/03/2004,Debit Card,Online,SALE6578
+CUST004,Wine - Sauvignon Blanc Oyster,751,91319,28/09/2020,PayPal,In-store,SALE9876
+CUST019,Rolled Oats,6,13629,21/07/2017,Cash,In-store,SALE6543
+CUST049,Pears - Bartlett,758,1750,05/02/2021,Credit Card,In-store,SALE6543
+CUST083,"Tuna - Canned, Flaked, Light",338,97495,29/09/2020,Apple Pay,In-store,SALE2134
+CUST098,Wine - Segura Viudas Aria Brut,421,53808,02/02/2017,Apple Pay,Online,SALE8790
+CUST029,Bread - Pumpernickel,987,76002,06/02/2009,Google Pay,In-store,SALE8765
+CUST093,Trueblue - Blueberry 12x473ml,677,28800,27/10/2014,PayPal,Online,SALE2134
+CUST087,"Nut - Peanut, Roasted",87,22248,15/10/2010,Google Pay,In-store,SALE1234
+CUST071,Coffee Decaf Colombian,991,61063,28/03/2019,Google Pay,Online,SALE7890
+CUST093,"Mushroom - Enoki, Fresh",985,82776,07/05/2006,Apple Pay,In-store,SALE6789
+CUST013,"Wine - Red, Lurton Merlot De",794,29187,18/10/2022,Apple Pay,Online,SALE0123
+CUST039,Pork Loin Cutlets,300,89289,10/10/2009,Debit Card,Online,SALE6578
+CUST069,"Flour - Corn, Fine",94,81933,01/10/2007,Apple Pay,Online,SALE2109
+CUST068,Muffins - Assorted,946,39678,03/08/2016,Cash,Online,SALE8790
+CUST072,"Flour - Buckwheat, Dark",587,37913,06/01/2017,Credit Card,In-store,SALE8901
+CUST075,Pur Value,220,4330,12/10/2014,Cash,In-store,SALE6543
+CUST051,Apple - Custard,949,20462,13/12/2022,Debit Card,In-store,SALE5678
+CUST039,Cheese - Marble,38,1244,19/04/2022,Apple Pay,Online,SALE6547
+CUST078,Curry Paste - Green Masala,270,45913,03/12/2005,Google Pay,In-store,SALE2190
+CUST013,Paper Towel Touchless,906,47575,27/11/2006,PayPal,In-store,SALE8901
+CUST075,Papayas,657,13674,27/05/2004,PayPal,Online,SALE5432
+CUST091,Kellogs Special K Cereal,797,24892,12/11/2015,PayPal,Online,SALE6547
+CUST043,Wine - Sauvignon Blanc Oyster,86,79798,29/06/2021,Google Pay,Online,SALE6543
+CUST015,"Nut - Almond, Blanched, Sliced",673,41437,02/03/2019,Cash,In-store,SALE2190
+CUST054,Water Chestnut - Canned,632,4652,29/10/2006,Google Pay,In-store,SALE4356
+CUST063,"Wine - White, Chardonnay",540,94760,07/10/2014,Google Pay,In-store,SALE6578
+CUST081,"Cherries - Maraschino,jar",574,242,15/06/2011,Debit Card,Online,SALE4321
+CUST072,Towel Multifold,431,53211,28/02/2021,Google Pay,In-store,SALE0981
+CUST074,Dish Towel,77,45342,09/12/2009,PayPal,Online,SALE4356
+CUST032,Bread - Rye,749,20686,13/12/2020,Debit Card,Online,SALE4356
+CUST091,Cookie Dough - Chocolate Chip,138,74038,18/01/2011,Cash,In-store,SALE0987
+CUST047,Foam Cup 6 Oz,16,85878,27/03/2006,Cash,In-store,SALE8790
+CUST015,Tamarind Paste,92,65778,02/10/2020,Debit Card,In-store,SALE0987
+CUST075,Compound - Strawberry,959,22702,08/01/2008,Debit Card,Online,SALE8760
+CUST023,"Beef - Chuck, Boneless",883,20830,12/08/2005,Google Pay,Online,SALE6543
+CUST006,Bread - Raisin Walnut Oval,302,5695,10/08/2013,Credit Card,Online,SALE2109
+CUST063,Bar Special K,760,82431,05/03/2020,PayPal,In-store,SALE1234
+CUST078,Salmon Steak - Cohoe 8 Oz,616,1968,26/06/2020,Apple Pay,Online,SALE8790
+CUST031,Sandwich Wrap,164,34233,16/04/2018,PayPal,Online,SALE0123
+CUST073,Corn - Mini,356,25835,05/10/2018,Google Pay,In-store,SALE6578
+CUST073,Chocolate Bar - Coffee Crisp,691,5046,08/09/2004,Google Pay,Online,SALE9876
+CUST006,Appetizer - Crab And Brie,343,20726,02/11/2022,Debit Card,In-store,SALE6543
+CUST008,Ice Cream Bar - Oreo Sandwich,692,14137,25/09/2003,Google Pay,Online,SALE6789
+CUST082,Wiberg Cure,275,99344,28/12/2005,Apple Pay,In-store,SALE4567
+CUST099,Spinach - Spinach Leaf,247,89501,30/01/2013,Apple Pay,In-store,SALE4321
+CUST061,Cheese - Brick With Pepper,483,48501,05/03/2007,Cash,Online,SALE6789
+CUST042,Chives - Fresh,494,58350,09/05/2022,Google Pay,Online,SALE0123
+CUST064,Table Cloth 144x90 White,602,5910,06/02/2007,Debit Card,Online,SALE7890
+CUST082,Dill Weed - Fresh,732,67042,14/11/2013,PayPal,In-store,SALE9876
+CUST021,Chocolate Bar - Smarties,401,63791,21/12/2005,PayPal,In-store,SALE2190
+CUST096,Tea - Grapefruit Green Tea,776,22130,30/07/2006,Debit Card,Online,SALE8901
+CUST076,The Pop Shoppe - Lime Rickey,498,19477,29/05/2009,PayPal,In-store,SALE4326
+CUST014,"Sprite, Diet - 355ml",863,83782,23/04/2013,Debit Card,In-store,SALE8901
+CUST021,Cookies - Amaretto,109,58407,24/10/2006,Google Pay,Online,SALE4326
+CUST041,Compound - Orange,285,22783,28/09/2022,PayPal,In-store,SALE4326
+CUST022,Wine - Baron De Rothschild,906,36931,12/11/2015,Cash,Online,SALE2345
+CUST034,Juice - Ocean Spray Kiwi,97,10747,21/11/2006,Debit Card,Online,SALE2109
+CUST030,"Pepsi - Diet, 355 Ml",247,70213,12/11/2015,Google Pay,Online,SALE8901
+CUST039,Pasta - Angel Hair,261,8131,22/05/2022,PayPal,Online,SALE6789
+CUST092,Mackerel Whole Fresh,700,17407,14/03/2020,Credit Card,In-store,SALE0987
+CUST084,Carbonated Water - Lemon Lime,636,36165,09/02/2015,Cash,Online,SALE0981
+CUST021,"Cheese - Havarti, Roasted Garlic",410,24104,26/10/2020,Google Pay,In-store,SALE6547
+CUST010,Juice - Orangina,617,3747,27/12/2012,Google Pay,In-store,SALE8901
+CUST072,"Schnappes - Peach, Walkers",730,22063,22/08/2011,PayPal,Online,SALE0987
+CUST002,Beans - Green,241,57005,29/11/2012,PayPal,In-store,SALE0123
+CUST066,Pie Filling - Pumpkin,600,7348,12/02/2020,Credit Card,In-store,SALE2109
+CUST026,"Cheese - Romano, Grated",324,62003,19/08/2005,Google Pay,In-store,SALE2134
+CUST042,Corn Kernels - Frozen,563,59875,30/09/2020,Cash,Online,SALE9876
+CUST018,Mace,962,13636,29/03/2008,Debit Card,Online,SALE0987
+CUST065,Pepper Squash,19,45424,14/04/2019,Apple Pay,Online,SALE0912
+CUST086,Kirsch - Schloss,701,89104,11/10/2005,Apple Pay,Online,SALE2345
+CUST091,Mortadella,474,63775,24/02/2010,PayPal,Online,SALE0912
+CUST070,"Stock - Chicken, White",14,18563,13/02/2007,Debit Card,In-store,SALE8901
+CUST097,Mortadella,465,96476,28/11/2013,Credit Card,In-store,SALE2109
+CUST029,Pear - Asian,565,1151,24/02/2007,Google Pay,Online,SALE4356
+CUST020,Table Cloth 54x72 Colour,924,81131,22/06/2012,Google Pay,Online,SALE6789
+CUST073,Red Cod Fillets - 225g,444,82428,07/07/2012,Google Pay,Online,SALE0123
+CUST090,Oats Large Flake,641,43936,24/02/2016,Google Pay,In-store,SALE0981
+CUST062,Tuna - Fresh,925,42277,30/12/2012,Credit Card,In-store,SALE4321
+CUST020,Beef Ground Medium,316,16519,10/09/2006,Debit Card,In-store,SALE0912
+CUST022,"Cheese - Mozzarella, Buffalo",411,22002,28/06/2019,PayPal,In-store,SALE6543
+CUST044,Pastry - Lemon Danish - Mini,727,71255,19/12/2011,Cash,Online,SALE2345
+CUST004,"Bread - Roll, Soft White Round",92,7709,23/05/2015,Credit Card,In-store,SALE9876
+CUST031,"Wine - Red, Mouton Cadet",837,43304,18/11/2017,Apple Pay,Online,SALE8790
+CUST074,"Crab - Dungeness, Whole, live",219,87531,30/12/2015,Apple Pay,Online,SALE6543
+CUST074,"Mushroom - Chantrelle, Fresh",513,91490,22/02/2022,Credit Card,In-store,SALE6789
+CUST071,"Shrimp - 21/25, Peel And Deviened",387,92167,02/03/2011,Google Pay,Online,SALE0912
+CUST014,"Ice - Clear, 300 Lb For Carving",496,31751,28/11/2014,Cash,In-store,SALE2134
+CUST024,Breakfast Quesadillas,595,58791,12/05/2022,Google Pay,Online,SALE4567
+CUST068,Lamb Shoulder Boneless Nz,70,29658,26/02/2005,Cash,In-store,SALE5678
+CUST060,Vinegar - Raspberry,344,82096,31/08/2003,Credit Card,In-store,SALE2134
+CUST020,Soup - Campbells Pasta Fagioli,242,79266,21/09/2005,Apple Pay,Online,SALE2190
+CUST087,Bar Nature Valley,361,87762,15/01/2016,Google Pay,Online,SALE0981
+CUST035,Versatainer Nc - 8288,942,43201,17/02/2012,Cash,Online,SALE8901
+CUST085,Nut - Pumpkin Seeds,173,52156,12/12/2019,Debit Card,In-store,SALE6543
+CUST066,Avocado,498,41015,12/11/2013,Cash,In-store,SALE2109
+CUST055,Pastry - Apple Large,818,67131,10/05/2019,Credit Card,In-store,SALE2190
+CUST036,Artichokes - Jerusalem,486,15281,03/11/2003,Credit Card,Online,SALE0123
+CUST036,Tea - Lemon Scented,585,11730,15/08/2022,Google Pay,In-store,SALE6578
+CUST003,Container - Foam Dixie 12 Oz,426,95463,19/03/2020,Google Pay,In-store,SALE0981
+CUST097,Sugar - Monocystal / Rock,765,51012,09/09/2021,Google Pay,Online,SALE0912
+CUST044,Irish Cream - Butterscotch,880,15680,01/06/2009,Google Pay,Online,SALE8760
+CUST014,"Veal - Brisket, Provimi,bnls",755,68279,22/02/2003,Apple Pay,In-store,SALE8790
+CUST091,Muffin Hinge 117n,172,95575,15/09/2003,Google Pay,In-store,SALE0987
+CUST075,Sausage - Meat,856,48488,29/12/2005,Debit Card,In-store,SALE8790
+CUST079,"Oranges - Navel, 72",936,19738,08/05/2006,PayPal,In-store,SALE8760
+CUST046,Chips Potato Salt Vinegar 43g,540,43606,04/06/2018,Cash,Online,SALE0987
+CUST022,Coffee - French Vanilla Frothy,371,87221,06/06/2003,Credit Card,Online,SALE8765
+CUST022,Plasticspoonblack,431,34676,13/03/2018,Google Pay,Online,SALE6578
+CUST091,Water - Perrier,428,56635,29/09/2019,Debit Card,In-store,SALE5432
+CUST034,Wine - Barbera Alba Doc 2001,448,64663,22/09/2015,Google Pay,In-store,SALE4567
+CUST064,Cotton Wet Mop 16 Oz,323,88879,11/08/2014,Google Pay,In-store,SALE9876
+CUST082,"Lemonade - Kiwi, 591 Ml",915,33738,12/02/2007,Google Pay,In-store,SALE0981
+CUST061,Banana - Green,289,12735,31/05/2005,PayPal,In-store,SALE2345
+CUST004,"Ham - Smoked, Bone - In",556,89302,11/09/2004,Cash,Online,SALE8901
+CUST009,Rambutan,111,50447,02/05/2018,Debit Card,In-store,SALE5678
+CUST079,Carroway Seed,283,9898,14/03/2012,Apple Pay,Online,SALE2109
+CUST006,Tea - Apple Green Tea,381,47932,22/01/2021,Debit Card,Online,SALE8765
+CUST069,Wine - Segura Viudas Aria Brut,47,9920,29/04/2008,PayPal,In-store,SALE4326
+CUST027,Veal - Osso Bucco,909,10495,28/05/2008,Apple Pay,Online,SALE8760
+CUST023,Bulgar,996,67,28/02/2022,PayPal,Online,SALE8765
+CUST091,Wine - Crozes Hermitage E.,620,18564,10/04/2019,Apple Pay,Online,SALE6578
+CUST075,Carbonated Water - Raspberry,976,31002,18/07/2017,Debit Card,In-store,SALE0912
+CUST090,Cake Sheet Combo Party Pack,370,25614,03/12/2007,Credit Card,Online,SALE2345
+CUST073,Crab - Meat,357,98368,02/09/2021,Apple Pay,In-store,SALE6543
+CUST097,Pate - Peppercorn,926,88425,15/11/2018,PayPal,In-store,SALE2345
+CUST045,Chocolate - Milk,270,63554,02/08/2014,Debit Card,Online,SALE8765
+CUST056,"Veal - Brisket, Provimi, Bone - In",436,81247,26/04/2011,Apple Pay,In-store,SALE9876
+CUST083,Apple - Fuji,772,28783,03/01/2006,Google Pay,In-store,SALE6543
+CUST064,Beef Flat Iron Steak,701,93131,17/07/2011,Cash,In-store,SALE6578
+CUST017,Milkettes - 2%,719,67137,16/05/2021,PayPal,In-store,SALE2345
+CUST002,Beef - Prime Rib Aaa,467,41131,19/11/2008,Cash,Online,SALE6543
+CUST069,Coffee Guatemala Dark,135,44719,22/10/2022,PayPal,Online,SALE8901
+CUST039,"Rice Pilaf, Dry,package",402,92112,29/05/2020,Credit Card,In-store,SALE2190
+CUST076,Wine - Riesling Dr. Pauly,731,86302,30/05/2022,Google Pay,In-store,SALE8760
+CUST016,Pork - Bones,499,8841,08/11/2011,Apple Pay,In-store,SALE8760
+CUST058,Buffalo - Short Rib Fresh,570,77256,16/06/2022,Credit Card,In-store,SALE6547
+CUST048,Sauerkraut,797,38139,13/09/2012,Google Pay,Online,SALE2134
+CUST043,Pomello,794,40944,02/06/2011,Google Pay,Online,SALE0981
+CUST053,"Pepper - Black, Crushed",266,31175,22/06/2019,Cash,In-store,SALE6578
+CUST097,Soup - Campbells - Tomato,648,3721,30/04/2014,Apple Pay,In-store,SALE0123
+CUST032,Peppercorns - Green,128,28714,30/08/2008,Credit Card,In-store,SALE0987
+CUST034,Sobe - Cranberry Grapefruit,52,70877,22/06/2020,Credit Card,Online,SALE2190
+CUST084,"Olives - Green, Pitted",427,37707,26/09/2022,Credit Card,In-store,SALE2134
+CUST011,"Wine - Niagara,vqa Reisling",476,50111,12/12/2004,Debit Card,Online,SALE8901
+CUST045,Juice - Lemon,620,77443,19/08/2013,Credit Card,In-store,SALE5432
+CUST054,Lentils - Green Le Puy,930,80594,14/05/2022,Google Pay,Online,SALE4567
+CUST082,Tea - Earl Grey,579,38699,17/12/2017,PayPal,In-store,SALE4321
+CUST030,Apple - Fuji,277,71139,21/11/2021,Apple Pay,In-store,SALE6543
+CUST052,Wheat - Soft Kernal Of Wheat,897,64288,13/08/2003,Apple Pay,In-store,SALE4326
+CUST005,Compound - Raspberry,96,74387,29/09/2005,Apple Pay,Online,SALE4567
+CUST068,Carbonated Water - Raspberry,251,35290,01/11/2013,Google Pay,In-store,SALE8901
+CUST004,Beef - Top Butt Aaa,278,21473,27/03/2011,Cash,In-store,SALE2134
+CUST098,Capers - Ox Eye Daisy,533,30084,12/06/2011,Credit Card,Online,SALE8790
+CUST002,Coconut - Whole,951,40201,09/03/2020,PayPal,Online,SALE2345
+CUST043,Bagelers - Cinn / Brown Sugar,420,83643,15/12/2017,Apple Pay,In-store,SALE6789
+CUST072,"Syrup - Monin, Swiss Choclate",560,55942,11/05/2016,Credit Card,In-store,SALE0123
+CUST019,Pepper - Roasted Red,673,42739,22/10/2022,Google Pay,Online,SALE0981
+CUST074,Arctic Char - Fillets,32,58365,15/08/2004,PayPal,Online,SALE0912
+CUST066,Squeeze Bottle,133,40958,07/09/2009,Apple Pay,In-store,SALE2109
+CUST054,Chickhen - Chicken Phyllo,787,95369,07/05/2011,Cash,Online,SALE0123
+CUST082,Crackers - Graham,494,89402,18/01/2003,Cash,In-store,SALE9876
+CUST077,Sea Bass - Whole,545,54479,22/08/2010,Cash,In-store,SALE9876
+CUST052,Mcguinness - Blue Curacao,600,60533,01/02/2016,PayPal,Online,SALE2345
+CUST088,Potatoes - Idaho 100 Count,837,10282,10/05/2017,Debit Card,Online,SALE0912
+CUST033,Flour - Pastry,488,50815,06/12/2017,Credit Card,Online,SALE6547
+CUST072,Puree - Guava,626,94364,15/09/2018,Apple Pay,Online,SALE4567
+CUST070,Dc - Sakura Fu,346,82279,16/01/2008,Credit Card,In-store,SALE4356
+CUST082,Chocolate - Liqueur Cups With Foil,475,67018,22/04/2011,Credit Card,In-store,SALE6543
+CUST028,Dry Ice,419,43780,02/08/2005,Apple Pay,In-store,SALE0912
+CUST020,Cream - 18%,915,28783,11/09/2008,Debit Card,Online,SALE4567
+CUST065,Nougat - Paste / Cream,141,16302,05/04/2011,Google Pay,Online,SALE6543
+CUST059,Smoked Paprika,704,12622,12/05/2013,PayPal,Online,SALE6789
+CUST088,Wine - Marlbourough Sauv Blanc,486,67870,04/07/2021,Apple Pay,Online,SALE4567
+CUST088,Tea - Earl Grey,980,4308,09/03/2011,Google Pay,In-store,SALE6789
+CUST091,Juice - Orangina,346,70473,14/07/2009,Debit Card,Online,SALE0981
+CUST042,Dc Hikiage Hira Huba,349,21096,19/07/2014,PayPal,Online,SALE8790
+CUST040,Lid - 16 Oz And 32 Oz,654,15162,14/03/2021,Google Pay,In-store,SALE9876
+CUST050,Olives - Kalamata,317,7997,28/04/2016,PayPal,Online,SALE6547
+CUST011,Sauce - Salsa,161,58028,09/07/2003,Cash,Online,SALE9876
+CUST011,Jello - Assorted,985,46152,24/02/2006,Cash,Online,SALE6789
+CUST035,Cookies Almond Hazelnut,844,45798,03/06/2021,Google Pay,In-store,SALE6578
+CUST099,Cocktail Napkin Blue,177,12892,27/11/2009,PayPal,In-store,SALE4567
+CUST019,"Iced Tea - Lemon, 460 Ml",605,67651,18/03/2005,PayPal,Online,SALE6547
+CUST049,Meldea Green Tea Liquor,684,50424,23/06/2017,Credit Card,In-store,SALE4321
+CUST019,Chutney Sauce,805,96053,20/10/2008,Credit Card,In-store,SALE8901
+CUST010,Beef - Tenderloin,121,52361,14/03/2013,Google Pay,In-store,SALE8765
+CUST094,"Wine - White, Mosel Gold",784,31880,07/12/2022,Google Pay,Online,SALE8790
+CUST022,Muffin Mix - Morning Glory,771,35401,06/09/2006,PayPal,In-store,SALE6543
+CUST001,Onions - Spanish,967,43404,09/09/2004,Credit Card,Online,SALE2134
+CUST085,"Onions - Dried, Chopped",834,89265,29/10/2017,Cash,In-store,SALE4356
+CUST026,Sobe - Orange Carrot,652,79720,07/12/2021,PayPal,Online,SALE4356
+CUST023,Energy Drink,997,52743,02/02/2020,Credit Card,Online,SALE4321
+CUST022,Pastry - Cherry Danish - Mini,146,98135,17/08/2017,Debit Card,In-store,SALE0981
+CUST083,Bread - Wheat Baguette,498,21120,09/10/2004,Debit Card,In-store,SALE0123
+CUST003,Bagel - Everything,945,90398,05/12/2020,Cash,In-store,SALE2345
+CUST090,Yoghurt Tubes,28,62979,26/02/2010,Apple Pay,Online,SALE5432
+CUST072,Mcgillicuddy Vanilla Schnap,607,35164,11/03/2005,PayPal,In-store,SALE6543
+CUST088,Sugar - Splenda Sweetener,820,85960,26/09/2020,PayPal,Online,SALE2190
+CUST075,Veal - Knuckle,169,93387,08/06/2017,Debit Card,In-store,SALE8760
+CUST061,Capers - Pickled,383,36200,01/12/2012,PayPal,In-store,SALE4567
+CUST050,Vinegar - Champagne,346,61503,21/01/2020,Apple Pay,Online,SALE6578
+CUST051,"Pasta - Linguini, Dry",48,56556,18/07/2021,Apple Pay,Online,SALE8901
+CUST064,Curry Powder,878,41499,24/04/2014,Apple Pay,Online,SALE2190
+CUST040,The Pop Shoppe - Root Beer,141,55288,14/07/2022,Apple Pay,In-store,SALE6543
+CUST023,"Noodles - Cellophane, Thin",868,62036,20/06/2005,Cash,In-store,SALE8901
+CUST025,Tart - Pecan Butter Squares,631,20558,29/01/2015,Debit Card,In-store,SALE0912
+CUST036,Coffee - Egg Nog Capuccino,956,93040,06/04/2016,Apple Pay,In-store,SALE4326
+CUST023,Pepper - Chilli Seeds Mild,865,18942,13/11/2016,PayPal,In-store,SALE8765
+CUST056,Coffee - Decaffeinato Coffee,305,57451,21/12/2012,Apple Pay,Online,SALE4567
+CUST042,Chocolate - Unsweetened,477,57216,12/08/2021,Google Pay,Online,SALE8760
+CUST001,Ham - Cooked Bayonne Tinned,945,52612,22/04/2016,Debit Card,In-store,SALE6789
+CUST040,Carbonated Water - Blackberry,45,33592,03/02/2009,Google Pay,Online,SALE2345
+CUST012,Shortbread - Cookie Crumbs,208,26695,09/10/2007,Cash,Online,SALE9876
+CUST095,Bread Base - Toscano,629,79594,30/06/2003,Debit Card,In-store,SALE5432
+CUST018,Beer - Paulaner Hefeweisse,279,88109,05/08/2008,Cash,In-store,SALE9876
+CUST090,Pomello,529,43496,21/07/2013,Debit Card,Online,SALE4356
+CUST055,Tahini Paste,650,11227,20/02/2004,Credit Card,In-store,SALE6547
+CUST011,Lid - 0090 Clear,913,2107,23/11/2015,Cash,Online,SALE9876
+CUST076,Cheese - La Sauvagine,481,85883,28/09/2020,Apple Pay,Online,SALE8790
+CUST098,Compound - Raspberry,459,57791,30/05/2005,Credit Card,Online,SALE6789
+CUST042,Table Cloth 120 Round White,726,60962,02/11/2014,Google Pay,In-store,SALE0987
+CUST016,Filter - Coffee,535,9498,01/08/2020,PayPal,Online,SALE7890
+CUST064,Cloves - Ground,825,68175,27/06/2020,Apple Pay,Online,SALE8760
+CUST059,"Soup - Knorr, Classic Can. Chili",44,82747,08/08/2018,PayPal,Online,SALE0123
+CUST055,Beans - Fine,937,17215,30/08/2015,Credit Card,Online,SALE2190
+CUST073,Currants,945,17976,05/12/2019,Apple Pay,In-store,SALE5432
+CUST039,Spaghetti Squash,280,89399,22/10/2010,Google Pay,Online,SALE6789
+CUST049,Campari,432,72015,02/11/2019,Debit Card,Online,SALE8760
+CUST050,"Chocolate - Pistoles, White",649,36073,15/01/2003,PayPal,Online,SALE0981
+CUST061,Sauce Tomato Pouch,446,89424,28/06/2013,Credit Card,Online,SALE0912
+CUST013,Cape Capensis - Fillet,269,19584,26/11/2010,Credit Card,In-store,SALE7890
+CUST043,Parsnip,675,75156,03/02/2021,Cash,Online,SALE6547
+CUST014,"Pasta - Elbows, Macaroni, Dry",640,62186,21/06/2014,Credit Card,Online,SALE6578
+CUST024,Beans - Soya Bean,111,58121,22/06/2014,Google Pay,Online,SALE6578
+CUST092,Cheese - Brie Roitelet,514,45877,01/06/2012,Credit Card,Online,SALE4321
+CUST058,Venison - Ground,130,94111,10/03/2013,Credit Card,In-store,SALE4356
+CUST011,Tart - Lemon,650,90340,02/11/2019,Debit Card,In-store,SALE2190
+CUST007,Sour Puss Raspberry,811,13778,24/03/2009,Google Pay,In-store,SALE8765
+CUST077,Pastry - Apple Large,2,53249,05/01/2017,Google Pay,In-store,SALE8760
+CUST010,Pork - Suckling Pig,399,13673,23/08/2014,Google Pay,In-store,SALE2190
+CUST007,Sponge Cake Mix - Vanilla,556,9829,13/12/2010,Credit Card,In-store,SALE0123
+CUST057,Gloves - Goldtouch Disposable,763,78664,16/04/2010,Google Pay,Online,SALE8765
+CUST030,Cranberry Foccacia,676,25196,13/07/2011,Google Pay,In-store,SALE9876
+CUST033,Dc - Frozen Momji,62,67586,14/09/2018,Apple Pay,In-store,SALE8765
+CUST034,"Oil - Shortening,liqud, Fry",986,34739,13/09/2006,Cash,In-store,SALE8765
+CUST088,Muffin Chocolate Individual Wrap,741,47985,02/11/2017,Google Pay,In-store,SALE4356
+CUST003,"Soup - Cream Of Broccoli, Dry",171,1383,27/11/2009,Apple Pay,Online,SALE8760
+CUST035,Halibut - Fletches,583,72867,31/07/2004,Credit Card,In-store,SALE6578
+CUST070,Muffin - Blueberry Individual,895,89208,21/08/2010,Debit Card,In-store,SALE0123
+CUST085,Wine - Penfolds Koonuga Hill,94,77987,20/04/2020,Google Pay,In-store,SALE2109
+CUST071,Cattail Hearts,568,25631,24/03/2014,Apple Pay,In-store,SALE0912
+CUST017,Cup - 4oz Translucent,209,36596,20/06/2004,Debit Card,Online,SALE6789
+CUST010,"Pepper - White, Ground",876,82779,07/09/2014,Credit Card,In-store,SALE8765
+CUST091,"Sugar - Brown, Individual",550,71889,10/09/2011,Credit Card,In-store,SALE7890
+CUST005,Chips - Potato Jalapeno,927,23147,04/04/2017,PayPal,In-store,SALE2134
+CUST015,Dc - Frozen Momji,963,45888,25/10/2018,PayPal,Online,SALE6578
+CUST043,Nantucket - Pomegranate Pear,571,74352,06/01/2013,Apple Pay,Online,SALE6547
+CUST039,"Water - Mineral, Carbonated",321,49036,07/07/2009,PayPal,In-store,SALE6543
+CUST060,Canada Dry,289,39604,19/04/2017,Credit Card,Online,SALE4567
+CUST045,"Beef - Ox Tail, Frozen",222,11013,20/05/2004,Apple Pay,Online,SALE8790
+CUST053,Wine - Casillero Del Diablo,659,40728,16/01/2018,Google Pay,Online,SALE0912
+CUST075,Coffee - 10oz Cup 92961,386,15245,24/12/2010,Debit Card,In-store,SALE4567
+CUST026,Bread Country Roll,982,80346,09/12/2003,Debit Card,In-store,SALE6543
+CUST059,Oil - Shortening - All - Purpose,562,36650,19/06/2014,Cash,In-store,SALE7890
+CUST015,Cake - French Pear Tart,394,17038,28/02/2015,Google Pay,Online,SALE8760
+CUST010,Appetizer - Shrimp Puff,359,55415,16/12/2018,PayPal,Online,SALE0987
